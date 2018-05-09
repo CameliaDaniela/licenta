@@ -47,3 +47,5 @@ E:\AN3\LICENTA\Exxx\Exxx\bin\Debug\zh-CN\System.Reactive.Providers.resources.dll
 E:\AN3\LICENTA\Exxx\Exxx\bin\Debug\zh-TW\System.Reactive.Providers.resources.dll
 E:\AN3\LICENTA\Exxx\Exxx\obj\Debug\Exxx.exe
 E:\AN3\LICENTA\Exxx\Exxx\obj\Debug\Exxx.pdb
+E:\AN3\LICENTA\Exxx\Exxx\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\AN3\LICENTA\Exxx\Exxx\bin\Debug\System.Diagnostics.DiagnosticSource.xml

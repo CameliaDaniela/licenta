@@ -18,6 +18,7 @@ namespace Exxx
         private readonly object _sync;
         private readonly Timer _timer;
         private readonly int _timerPeriod;
+        private int count;
 
         /// <summary>
         /// Random observable subject. It produces an integer in regular time periods.
@@ -32,6 +33,7 @@ namespace Exxx
             _sync = new object();
             _timer = new Timer(EmitRandomValue);  //define Timer and delegate
             _timerPeriod = timerPeriod;
+            count = 0;
             Schedule(); //call function that resets timer
         }
 
@@ -56,7 +58,13 @@ namespace Exxx
                 {
                     foreach (var observer in _observers)
                     {
-                        observer.OnNext(deList.ElementAt(value));
+                        DataEvent obj = deList.ElementAt(value);
+                        observer.OnNext(obj);
+                        count++;
+                        if (count == 10)
+                            _done = true;
+                        //Console.WriteLine(obj);
+                        Console.WriteLine(count);
                     }
                 }
             }

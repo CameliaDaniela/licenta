@@ -8,6 +8,7 @@ using System.Reactive.Linq;
 using System.Collections.Generic;
 using System.Linq;
 using System.Timers;
+using System.IO;
 
 namespace Exxx
 {
@@ -16,7 +17,7 @@ namespace Exxx
         static void Main(string[] args)
         {
             Console.WriteLine("Starting observable source...");
-            using (var source = new RandomDataEvent(500))
+            using (var source = new RandomDataEvent(500))//genereaza o data la fiecare 500 milisecunde
             {
                 Console.WriteLine("Started observable source.");
                 using (var server = Server.Create("Default"))
@@ -33,30 +34,50 @@ namespace Exxx
                         "Observable Stream");
 
                     //query that sums of events within 2 second tumbling windows
-                    var query = from ob in stream.TumblingWindow(TimeSpan.FromSeconds(2), HoppingWindowOutputPolicy.ClipToWindowEnd)
+                    var query = from ob in stream.HoppingWindow(TimeSpan.FromHours(2), TimeSpan.FromSeconds(2))
                                 select new
                                 {
                                     sum = ob.Sum(e => e.Value.ActivityCode),
                                     max =ob.Max(e=>e.Value.StartTime)
                                 };
-                    Console.ReadLine();
+                    //Console.ReadLine();
 
 
                     //IDisposable sink; subscription hooks into running event stream
                     //could wrap this up in using block and not have to call Dispose explicitly
+                    
                     IDisposable subscription = query.ToObservable().Subscribe(Console.WriteLine);
-                    Console.WriteLine("Started query ...");
-                    Console.ReadLine();
-                    Console.WriteLine("Stopping query ...");
+                   
                     subscription.Dispose();
-
+                   
                     //**ienumerable sink
                     var enumerator = query.ToPointEnumerable().GetEnumerator();
                     while (enumerator.MoveNext())
                     {
                         if (enumerator.Current.EventKind == EventKind.Insert)
+                        {
                             Console.WriteLine(enumerator.Current.Payload.ToString());
+                           
+
+                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
+                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/PlanManager")));
+                            // RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/MyStreaminsigtApp/serverApp/Query/query")), Console.Out);
+
+                            DiagnosticSettings settings = new DiagnosticSettings(DiagnosticAspect.GenerateErrorReports, DiagnosticLevel.Always);
+                            server.SetDiagnosticSettings(new Uri("cep:/Server"), settings);
+                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
+                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/PlanManager")));
+                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/Query")));
+
+                            //Console.WriteLine("Summary Query Diagnostics");
+                            //RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/MyStreamInsightApp/TrafficJoinSample/Query/TrafficSensorQuery")), Console.Out);
+                            //Console.WriteLine("Operator Diagnostics");
+                            //RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/MyStreamInsightApp/TrafficJoinSample/Query/TrafficSensorQuery/Operator/sensorInput")), Console.Out);
+                            
+                        }
                     }
+
+
                 }
 
                 Console.ReadLine();
@@ -65,6 +86,20 @@ namespace Exxx
             }
             Console.WriteLine("Stopped observable source.");
 
+        }
+        private static void RetrieveDiagnostics(DiagnosticView diagview )
+        {
+            using (StreamWriter sw = new StreamWriter("logs.txt", append: true))
+            {
+
+                // Display diagnostics for diagnostic view object  
+                sw.WriteLine("Diagnostic View for '" + diagview.ObjectName + "':");
+                foreach (KeyValuePair<string, object> diagprop in diagview)
+                {
+                    sw.WriteLine(" " + diagprop.Key + ": " + diagprop.Value);
+                }
+                sw.WriteLine("--------------------------------------------");
+            }
         }
     }
 }
