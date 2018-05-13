@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -9,11 +11,11 @@ using System.Threading.Tasks;
 namespace Exxx
 {
 
-    sealed class RandomDataEvent : IObservable<DataEvent>, IDisposable
+    sealed class RandomObject<T> : IObservable<T>, IDisposable
     {
         private bool _done;
-        private readonly List<IObserver<DataEvent>> _observers;
-        private List<DataEvent> deList;
+        private readonly List<IObserver<T>> _observers;
+        private List<T> deList;
         private readonly Random _random;
         private readonly object _sync;
         private readonly Timer _timer;
@@ -24,11 +26,11 @@ namespace Exxx
         /// Random observable subject. It produces an integer in regular time periods.
         /// </summary>
         /// <param name="timerPeriod">Timer period (in milliseconds)</param>
-        public RandomDataEvent(int timerPeriod)
+        public RandomObject(int timerPeriod)
         {
             deList = Citire();
             _done = false;
-            _observers = new List<IObserver<DataEvent>>();
+            _observers = new List<IObserver<T>>();
             _random = new Random();
             _sync = new object();
             _timer = new Timer(EmitRandomValue);  //define Timer and delegate
@@ -39,7 +41,7 @@ namespace Exxx
 
         //called to register an observer with the observable
         //StreamInsight calls this itself and receives events from the observable
-        public IDisposable Subscribe(IObserver<DataEvent> observer)
+        public IDisposable Subscribe(IObserver<T> observer)
         {
             lock (_sync)
             {
@@ -58,14 +60,49 @@ namespace Exxx
                 {
                     foreach (var observer in _observers)
                     {
-                        DataEvent obj = deList.ElementAt(value);
+                        T obj = deList.ElementAt(value);
                         observer.OnNext(obj);
                         count++;
                         if (count == 10)
                             _done = true;
-                        //Console.WriteLine(obj);
-                        Console.WriteLine(count);
+                        if (typeof(T) == typeof(DataEvent))
+                        {
+                            FileWrite(obj);
+                        }
+                        else
+                        {
+                            Console.WriteLine(obj);
+                        }
+                        //Console.WriteLine(count);
                     }
+                }
+            }
+        }
+
+        private void FileWrite(T obj)
+        {
+            DataEvent dataEvent = new DataEvent();
+            var v = new List<T>
+            {
+                obj
+            };
+            List<DataEvent> de = (List<DataEvent>)v.AsEnumerable();
+            SqlDataAdapter da = new SqlDataAdapter();
+            dataEvent = de.ElementAt(0);
+            using (SqlConnection conn = new SqlConnection())
+            {
+                conn.ConnectionString = "Data source=DESKTOP-F3CIUE8\\SQLEXPRESS;Initial Catalog=Licenta;Integrated Security=true";
+               
+                string saveDataEv = "INSERT into DataEvent (ActivityCode,StartTime,StatusEvent ) VALUES (@actCode,@stT,@status)";
+
+                using ( da.InsertCommand = new SqlCommand(saveDataEv,conn))
+                {
+
+                    da.InsertCommand.Parameters.Add("@actCode", SqlDbType.Int).Value =dataEvent.ActivityCode ;
+                    da.InsertCommand.Parameters.Add("@stT", SqlDbType.DateTime).Value = dataEvent.StartTime;
+                    da.InsertCommand.Parameters.Add("@status", SqlDbType.VarChar,50).Value = dataEvent.Status;
+                    conn.Open();
+                    da.InsertCommand.ExecuteNonQuery();
                 }
             }
         }
@@ -130,10 +167,10 @@ namespace Exxx
         //returned from subscribe command
         private sealed class Subscription : IDisposable
         {
-            private readonly RandomDataEvent _subject;
-            private IObserver<DataEvent> _observer;
+            private readonly RandomObject<T> _subject;
+            private IObserver<T> _observer;
 
-            public Subscription(RandomDataEvent subject, IObserver<DataEvent> observer)
+            public Subscription(RandomObject<T> subject, IObserver<T> observer)
             {
                 _subject = subject;
                 _observer = observer;
@@ -141,7 +178,7 @@ namespace Exxx
 
             public void Dispose()
             {
-                IObserver<DataEvent> observer = _observer;
+                IObserver<T> observer = _observer;
                 if (null != observer)
                 {
                     lock (_subject._sync)
@@ -152,22 +189,29 @@ namespace Exxx
                     _observer = null;
                 }
             }
-        }
-        List<DataEvent> Citire()
-        {
-            var lines = System.IO.File.ReadAllLines(@"C:\Users\camel\Desktop\ex\ex\data.txt");
-            List<DataEvent> list = new List<DataEvent>();
-            foreach (var line in lines)
-            {
-                DataEvent de = new DataEvent();
-                var props = line.Split(',');
-                de.StartTime = DateTime.Parse(props[0]);
-                de.ActivityCode = int.Parse(props[1]);
-                de.Status = props[2];
-                list.Add(de);
-            }
 
-            return list;
         }
+        public List<T> Citire()
+        {
+            if (typeof(T) == typeof(DataEvent))
+            {
+                var lines = System.IO.File.ReadAllLines("data.txt");
+                List<DataEvent> list = new List<DataEvent>();
+                foreach (var line in lines)
+                {
+                    DataEvent de = new DataEvent();
+                    var props = line.Split(',');
+                    de.StartTime = DateTime.Parse(props[0]);
+                    de.ActivityCode = Int32.Parse(props[1]);
+                    de.Status = props[2];
+                    list.Add(de);
+                }
+                List<T> l = new List<T>((IEnumerable<T>)list);
+                return l;
+            }
+            return null;
+        }
+        
+
     }
 }

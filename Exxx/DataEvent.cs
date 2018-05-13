@@ -22,6 +22,6 @@ namespace Exxx
             return StartTime + " " + ActivityCode + " " + Status + "\n";
         }
 
-
+        
     }
 }

@@ -17,7 +17,7 @@ namespace Exxx
         static void Main(string[] args)
         {
             Console.WriteLine("Starting observable source...");
-            using (var source = new RandomDataEvent(500))//genereaza o data la fiecare 500 milisecunde
+            using (var source = new RandomObject<DataEvent>(500))//genereaza o data la fiecare 500 milisecunde
             {
                 Console.WriteLine("Started observable source.");
                 using (var server = Server.Create("Default"))
@@ -34,18 +34,25 @@ namespace Exxx
                         "Observable Stream");
 
                     //query that sums of events within 2 second tumbling windows
-                    var query = from ob in stream.HoppingWindow(TimeSpan.FromHours(2), TimeSpan.FromSeconds(2))
+                    //var query = from ob in stream.TumblingWindow(TimeSpan.FromSeconds(2), HoppingWindowOutputPolicy.ClipToWindowEnd)
+                    //            select new
+                    //            {
+                    //                sum = ob.Sum(e => e.Value.ActivityCode),
+                    //                max =ob.Max(e=>e.Value.StartTime)
+                    //            };
+                    var query = from ob in stream.HoppingWindow(TimeSpan.FromSeconds(5), TimeSpan.FromSeconds(2))
                                 select new
                                 {
                                     sum = ob.Sum(e => e.Value.ActivityCode),
-                                    max =ob.Max(e=>e.Value.StartTime)
+                                    max = ob.Max(e => e.Value.StartTime)
                                 };
+
                     //Console.ReadLine();
 
 
                     //IDisposable sink; subscription hooks into running event stream
                     //could wrap this up in using block and not have to call Dispose explicitly
-                    
+
                     IDisposable subscription = query.ToObservable().Subscribe(Console.WriteLine);
                    
                     subscription.Dispose();
