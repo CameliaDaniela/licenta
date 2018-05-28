@@ -52,7 +52,7 @@ namespace Exxx
         }
 
         //sends data to each observer (in this case, StreamInsight)
-        public void OnNext(int value)
+        public void OnNext(T value)
         {
             lock (_sync)
             {
@@ -60,51 +60,48 @@ namespace Exxx
                 {
                     foreach (var observer in _observers)
                     {
-                        T obj = deList.ElementAt(value);
-                        observer.OnNext(obj);
+                        //T obj = deList.ElementAt(value);
+                        observer.OnNext(value);
                         count++;
-                        if (count == 10)
+                        if (count == 11)
+                        {
                             _done = true;
-                        if (typeof(T) == typeof(DataEvent))
-                        {
-                            FileWrite(obj);
+                            observer.OnCompleted();
+                            //DBRead();
+                            break;
                         }
-                        else
-                        {
-                            Console.WriteLine(obj);
-                        }
+  
+                        DBWrite(value);
+                        Console.WriteLine(value);
+                        
+
                         //Console.WriteLine(count);
                     }
                 }
             }
         }
-
-        private void FileWrite(T obj)
+       
+        private void DBWrite(T obj)
         {
-            DataEvent dataEvent = new DataEvent();
+            DB dbWrite = new DB();
             var v = new List<T>
             {
                 obj
             };
-            List<DataEvent> de = (List<DataEvent>)v.AsEnumerable();
-            SqlDataAdapter da = new SqlDataAdapter();
-            dataEvent = de.ElementAt(0);
-            using (SqlConnection conn = new SqlConnection())
+            if (typeof(T) == typeof(DataEvent))
             {
-                conn.ConnectionString = "Data source=DESKTOP-F3CIUE8\\SQLEXPRESS;Initial Catalog=Licenta;Integrated Security=true";
-               
-                string saveDataEv = "INSERT into DataEvent (ActivityCode,StartTime,StatusEvent ) VALUES (@actCode,@stT,@status)";
-
-                using ( da.InsertCommand = new SqlCommand(saveDataEv,conn))
-                {
-
-                    da.InsertCommand.Parameters.Add("@actCode", SqlDbType.Int).Value =dataEvent.ActivityCode ;
-                    da.InsertCommand.Parameters.Add("@stT", SqlDbType.DateTime).Value = dataEvent.StartTime;
-                    da.InsertCommand.Parameters.Add("@status", SqlDbType.VarChar,50).Value = dataEvent.Status;
-                    conn.Open();
-                    da.InsertCommand.ExecuteNonQuery();
-                }
+                DataEvent dataEvent = new DataEvent();
+                List<DataEvent> de = (List<DataEvent>)v.AsEnumerable();
+                dataEvent = de.ElementAt(0);
+                dbWrite.WriteToDB(dataEvent.ActivityCode, dataEvent.StartTime, dataEvent.Status);
+            }else if (typeof(T) == typeof(Car))
+            {
+                Car car = new Car();
+                List<Car> de = (List<Car>)v.AsEnumerable();
+                car = de.ElementAt(0);
+                dbWrite.WriteToDB(car.Speed, car.Name);
             }
+           
         }
 
         //fires on error
@@ -157,9 +154,25 @@ namespace Exxx
         //emits a value and calls "schedule" again
         private void EmitRandomValue(object _)
         {
-            var value = (int)(_random.NextDouble() * 10);
+            
             //Console.WriteLine("[Observable]\t" + value);
-            OnNext(value);
+            if(typeof(T)==typeof(Car))
+            {
+                Car c = new Car();
+                c.CreateRandomCar();
+                List<Car> list = new List<Car>
+                {
+                    c
+                };
+                List<T> l = new List<T>((IEnumerable<T>)list);
+                OnNext(l.Last());
+            }
+            else
+            {
+                var value = (int)(_random.NextDouble() * 10);
+                OnNext(deList.ElementAt(value));
+            }
+           
             Schedule();
         }
 
@@ -183,7 +196,7 @@ namespace Exxx
                 {
                     lock (_subject._sync)
                     {
-                        Console.WriteLine("observer removed");
+                       // Console.WriteLine("observer removed");
                         _subject._observers.Remove(observer);
                     }
                     _observer = null;

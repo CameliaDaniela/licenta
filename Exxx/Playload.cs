@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace Exxx
 {
    
-    public class Payload
+    public class Payload<T>
     {
-        public DataEvent Value { get; set; }
+        public T Value { get; set; }
 
         public override string ToString()
         {
