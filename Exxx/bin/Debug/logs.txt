@@ -1285,3 +1285,2460 @@ Diagnostic View for 'cep:/Server/Query':
  QueryTotalOutgoingEventLatency: 749.2268
  QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
 --------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 6
+ OperatorTotalCpuUsage: 315
+ QueryTotalIncomingEventCount: 2
+ QueryTotalConsumedEventCount: 2
+ QueryTotalProducedEventCount: 3
+ QueryTotalOutgoingEventCount: 2
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:32:29 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:32:29 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:32:29 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:32:29 AM
+ QueryTotalConsumedEventLatency: 134.1118
+ QueryTotalProducedEventLatency: 450.9932
+ QueryTotalOutgoingEventLatency: 325.0012
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:32:29 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 19
+ OperatorTotalCpuUsage: 324
+ QueryTotalIncomingEventCount: 6
+ QueryTotalConsumedEventCount: 6
+ QueryTotalProducedEventCount: 8
+ QueryTotalOutgoingEventCount: 7
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:32:31 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:32:31 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:32:31 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:32:31 AM
+ QueryTotalConsumedEventLatency: 134.4212
+ QueryTotalProducedEventLatency: 470.2021
+ QueryTotalOutgoingEventLatency: 613.0176
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:32:31 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 324
+ QueryTotalIncomingEventCount: 10
+ QueryTotalConsumedEventCount: 10
+ QueryTotalProducedEventCount: 13
+ QueryTotalOutgoingEventCount: 12
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:32:33 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:32:33 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:32:33 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:32:33 AM
+ QueryTotalConsumedEventLatency: 134.7103
+ QueryTotalProducedEventLatency: 471.0781
+ QueryTotalOutgoingEventLatency: 666.0928
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:32:33 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 248
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 324
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 19
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryTotalConsumedEventLatency: 134.8795
+ QueryTotalProducedEventLatency: 481.9827
+ QueryTotalOutgoingEventLatency: 702.7416
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 324
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 19
+ QueryTotalOutgoingEventCount: 16
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryTotalConsumedEventLatency: 134.8795
+ QueryTotalProducedEventLatency: 481.9827
+ QueryTotalOutgoingEventLatency: 740.3968
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 324
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 19
+ QueryTotalOutgoingEventCount: 17
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:32:34 AM
+ QueryTotalConsumedEventLatency: 134.8795
+ QueryTotalProducedEventLatency: 481.9827
+ QueryTotalOutgoingEventLatency: 811.7213
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 9
+ OperatorTotalCpuUsage: 187
+ QueryTotalIncomingEventCount: 3
+ QueryTotalConsumedEventCount: 3
+ QueryTotalProducedEventCount: 4
+ QueryTotalOutgoingEventCount: 3
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:35:25 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:35:25 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:35:25 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:35:25 AM
+ QueryTotalConsumedEventLatency: 19.1452
+ QueryTotalProducedEventLatency: 217.8815
+ QueryTotalOutgoingEventLatency: 193.1393
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:35:25 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 19
+ OperatorTotalCpuUsage: 195
+ QueryTotalIncomingEventCount: 6
+ QueryTotalConsumedEventCount: 6
+ QueryTotalProducedEventCount: 8
+ QueryTotalOutgoingEventCount: 7
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:35:27 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:35:27 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:35:27 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:35:27 AM
+ QueryTotalConsumedEventLatency: 19.2605
+ QueryTotalProducedEventLatency: 236.6354
+ QueryTotalOutgoingEventLatency: 363.5805
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:35:27 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 195
+ QueryTotalIncomingEventCount: 10
+ QueryTotalConsumedEventCount: 10
+ QueryTotalProducedEventCount: 13
+ QueryTotalOutgoingEventCount: 12
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryTotalConsumedEventLatency: 19.563
+ QueryTotalProducedEventLatency: 238.2396
+ QueryTotalOutgoingEventLatency: 420.5639
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:35:29 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 195
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryTotalConsumedEventLatency: 19.6342
+ QueryTotalProducedEventLatency: 242.2208
+ QueryTotalOutgoingEventLatency: 464.0459
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 195
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 16
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:35:29 AM
+ QueryTotalConsumedEventLatency: 19.6342
+ QueryTotalProducedEventLatency: 242.2208
+ QueryTotalOutgoingEventLatency: 496.4552
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 12
+ OperatorTotalCpuUsage: 128
+ QueryTotalIncomingEventCount: 4
+ QueryTotalConsumedEventCount: 4
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 4
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:36:27 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:36:27 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:36:27 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:36:27 AM
+ QueryTotalConsumedEventLatency: 28.0297
+ QueryTotalProducedEventLatency: 169.2422
+ QueryTotalOutgoingEventLatency: 143.7768
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:36:27 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 15
+ OperatorTotalCpuUsage: 146
+ QueryTotalIncomingEventCount: 5
+ QueryTotalConsumedEventCount: 5
+ QueryTotalProducedEventCount: 6
+ QueryTotalOutgoingEventCount: 5
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:39:13 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:39:13 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:39:13 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:39:13 AM
+ QueryTotalConsumedEventLatency: 23.39
+ QueryTotalProducedEventLatency: 185.2909
+ QueryTotalOutgoingEventLatency: 149.9119
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:39:13 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 28
+ OperatorTotalCpuUsage: 152
+ QueryTotalIncomingEventCount: 9
+ QueryTotalConsumedEventCount: 9
+ QueryTotalProducedEventCount: 11
+ QueryTotalOutgoingEventCount: 10
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:39:15 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:39:15 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:39:15 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:39:15 AM
+ QueryTotalConsumedEventLatency: 23.5962
+ QueryTotalProducedEventLatency: 199.4446
+ QueryTotalOutgoingEventLatency: 252.4917
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:39:15 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 248
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 153
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryTotalConsumedEventLatency: 23.7146
+ QueryTotalProducedEventLatency: 215.9983
+ QueryTotalOutgoingEventLatency: 289.8939
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 153
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryTotalConsumedEventLatency: 23.7146
+ QueryTotalProducedEventLatency: 215.9983
+ QueryTotalOutgoingEventLatency: 324.5362
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 153
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 16
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:39:16 AM
+ QueryTotalConsumedEventLatency: 23.7146
+ QueryTotalProducedEventLatency: 215.9983
+ QueryTotalOutgoingEventLatency: 391.1417
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 6
+ OperatorTotalCpuUsage: 120
+ QueryTotalIncomingEventCount: 2
+ QueryTotalConsumedEventCount: 2
+ QueryTotalProducedEventCount: 3
+ QueryTotalOutgoingEventCount: 2
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:45 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:45 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:45 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:45 AM
+ QueryTotalConsumedEventLatency: 13.9205
+ QueryTotalProducedEventLatency: 151.7994
+ QueryTotalOutgoingEventLatency: 127.9228
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:40:45 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 13
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 4
+ QueryTotalConsumedEventCount: 4
+ QueryTotalProducedEventCount: 6
+ QueryTotalOutgoingEventCount: 5
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:47 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:47 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:47 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:47 AM
+ QueryTotalConsumedEventLatency: 13.9977
+ QueryTotalProducedEventLatency: 171.1259
+ QueryTotalOutgoingEventLatency: 218.8122
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:40:47 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 20
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 6
+ QueryTotalConsumedEventCount: 6
+ QueryTotalProducedEventCount: 9
+ QueryTotalOutgoingEventCount: 8
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:49 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:49 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:49 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:49 AM
+ QueryTotalConsumedEventLatency: 14.2673
+ QueryTotalProducedEventLatency: 172.3129
+ QueryTotalOutgoingEventLatency: 263.5681
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:40:49 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 27
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 8
+ QueryTotalConsumedEventCount: 8
+ QueryTotalProducedEventCount: 12
+ QueryTotalOutgoingEventCount: 11
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:51 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:51 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:51 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:51 AM
+ QueryTotalConsumedEventLatency: 14.3847
+ QueryTotalProducedEventLatency: 173.3303
+ QueryTotalOutgoingEventLatency: 311.0771
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:40:51 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 33
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 10
+ QueryTotalConsumedEventCount: 10
+ QueryTotalProducedEventCount: 15
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:53 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:53 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:53 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:53 AM
+ QueryTotalConsumedEventLatency: 14.5974
+ QueryTotalProducedEventLatency: 174.1048
+ QueryTotalOutgoingEventLatency: 341.5803
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:40:53 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 248
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 36
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 21
+ QueryTotalOutgoingEventCount: 17
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryTotalConsumedEventLatency: 14.7677
+ QueryTotalProducedEventLatency: 185.7034
+ QueryTotalOutgoingEventLatency: 381.4462
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 36
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 21
+ QueryTotalOutgoingEventCount: 18
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryTotalConsumedEventLatency: 14.7677
+ QueryTotalProducedEventLatency: 185.7034
+ QueryTotalOutgoingEventLatency: 410.5279
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 36
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 21
+ QueryTotalOutgoingEventCount: 19
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:40:54 AM
+ QueryTotalConsumedEventLatency: 14.7677
+ QueryTotalProducedEventLatency: 185.7034
+ QueryTotalOutgoingEventLatency: 477.1936
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 6
+ OperatorTotalCpuUsage: 142
+ QueryTotalIncomingEventCount: 2
+ QueryTotalConsumedEventCount: 2
+ QueryTotalProducedEventCount: 3
+ QueryTotalOutgoingEventCount: 2
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:41:49 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:41:49 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:41:49 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:41:49 AM
+ QueryTotalConsumedEventLatency: 21.2555
+ QueryTotalProducedEventLatency: 177.2561
+ QueryTotalOutgoingEventLatency: 152.1772
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:41:49 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 9
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 3
+ QueryTotalConsumedEventCount: 3
+ QueryTotalProducedEventCount: 4
+ QueryTotalOutgoingEventCount: 3
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:35 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:35 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:35 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:35 AM
+ QueryTotalConsumedEventLatency: 19.6423
+ QueryTotalProducedEventLatency: 174.0673
+ QueryTotalOutgoingEventLatency: 149.3936
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:43:35 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 16
+ OperatorTotalCpuUsage: 144
+ QueryTotalIncomingEventCount: 5
+ QueryTotalConsumedEventCount: 5
+ QueryTotalProducedEventCount: 7
+ QueryTotalOutgoingEventCount: 6
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:37 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:37 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:37 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:37 AM
+ QueryTotalConsumedEventLatency: 19.7194
+ QueryTotalProducedEventLatency: 187.7813
+ QueryTotalOutgoingEventLatency: 256.0702
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:43:37 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 23
+ OperatorTotalCpuUsage: 151
+ QueryTotalIncomingEventCount: 7
+ QueryTotalConsumedEventCount: 7
+ QueryTotalProducedEventCount: 10
+ QueryTotalOutgoingEventCount: 9
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:39 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:39 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:39 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:39 AM
+ QueryTotalConsumedEventLatency: 19.8397
+ QueryTotalProducedEventLatency: 203.1822
+ QueryTotalOutgoingEventLatency: 304.9657
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:43:39 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 29
+ OperatorTotalCpuUsage: 151
+ QueryTotalIncomingEventCount: 9
+ QueryTotalConsumedEventCount: 9
+ QueryTotalProducedEventCount: 13
+ QueryTotalOutgoingEventCount: 12
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:41 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:41 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:41 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:41 AM
+ QueryTotalConsumedEventLatency: 20.0704
+ QueryTotalProducedEventLatency: 204.6061
+ QueryTotalOutgoingEventLatency: 349.8474
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:43:41 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 5
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 304
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 36
+ OperatorTotalCpuUsage: 151
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryTotalConsumedEventLatency: 20.2319
+ QueryTotalProducedEventLatency: 211.0899
+ QueryTotalOutgoingEventLatency: 383.6997
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 36
+ OperatorTotalCpuUsage: 151
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 17
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryTotalConsumedEventLatency: 20.2319
+ QueryTotalProducedEventLatency: 211.0899
+ QueryTotalOutgoingEventLatency: 446.6215
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 36
+ OperatorTotalCpuUsage: 151
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 18
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:43 AM
+ QueryTotalConsumedEventLatency: 20.2319
+ QueryTotalProducedEventLatency: 211.0899
+ QueryTotalOutgoingEventLatency: 515.648
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 9
+ OperatorTotalCpuUsage: 132
+ QueryTotalIncomingEventCount: 3
+ QueryTotalConsumedEventCount: 3
+ QueryTotalProducedEventCount: 4
+ QueryTotalOutgoingEventCount: 3
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:43:59 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:43:59 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:43:59 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:43:59 AM
+ QueryTotalConsumedEventLatency: 24.7078
+ QueryTotalProducedEventLatency: 168.9591
+ QueryTotalOutgoingEventLatency: 138.9959
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:43:59 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 22
+ OperatorTotalCpuUsage: 140
+ QueryTotalIncomingEventCount: 7
+ QueryTotalConsumedEventCount: 7
+ QueryTotalProducedEventCount: 9
+ QueryTotalOutgoingEventCount: 8
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:01 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:01 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:01 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:01 AM
+ QueryTotalConsumedEventLatency: 24.9651
+ QueryTotalProducedEventLatency: 186.2913
+ QueryTotalOutgoingEventLatency: 244.6411
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:44:01 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 5
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 304
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 140
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 13
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryTotalConsumedEventLatency: 25.3095
+ QueryTotalProducedEventLatency: 192.748
+ QueryTotalOutgoingEventLatency: 286.2623
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 140
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryTotalConsumedEventLatency: 25.3095
+ QueryTotalProducedEventLatency: 192.748
+ QueryTotalOutgoingEventLatency: 353.2057
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 140
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 16
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:03 AM
+ QueryTotalConsumedEventLatency: 25.3095
+ QueryTotalProducedEventLatency: 192.748
+ QueryTotalOutgoingEventLatency: 418.3342
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 12
+ OperatorTotalCpuUsage: 131
+ QueryTotalIncomingEventCount: 4
+ QueryTotalConsumedEventCount: 4
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 4
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:17 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:17 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:17 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:17 AM
+ QueryTotalConsumedEventLatency: 21.068
+ QueryTotalProducedEventLatency: 166.3197
+ QueryTotalOutgoingEventLatency: 141.7331
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:44:17 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 5
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 5
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 304
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 131
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 12
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryTotalConsumedEventLatency: 21.4111
+ QueryTotalProducedEventLatency: 186.7972
+ QueryTotalOutgoingEventLatency: 239.5446
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 131
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryTotalConsumedEventLatency: 21.4111
+ QueryTotalProducedEventLatency: 186.7972
+ QueryTotalOutgoingEventLatency: 368.3502
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 131
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:44:19 AM
+ QueryTotalConsumedEventLatency: 21.4111
+ QueryTotalProducedEventLatency: 186.7972
+ QueryTotalOutgoingEventLatency: 490.2622
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 12
+ OperatorTotalCpuUsage: 124
+ QueryTotalIncomingEventCount: 4
+ QueryTotalConsumedEventCount: 4
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 4
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:35 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:35 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:35 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:35 AM
+ QueryTotalConsumedEventLatency: 21.7121
+ QueryTotalProducedEventLatency: 155.957
+ QueryTotalOutgoingEventLatency: 129.9955
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:45:35 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 248
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 125
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 13
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryTotalConsumedEventLatency: 22.2474
+ QueryTotalProducedEventLatency: 178.8665
+ QueryTotalOutgoingEventLatency: 232.6094
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 125
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryTotalConsumedEventLatency: 22.2474
+ QueryTotalProducedEventLatency: 178.8665
+ QueryTotalOutgoingEventLatency: 264.4405
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 125
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:36 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:37 AM
+ QueryTotalConsumedEventLatency: 22.2474
+ QueryTotalProducedEventLatency: 178.8665
+ QueryTotalOutgoingEventLatency: 326.0231
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 132
+ OperatorTotalScheduledCount: 6
+ OperatorTotalCpuUsage: 129
+ QueryTotalIncomingEventCount: 2
+ QueryTotalConsumedEventCount: 2
+ QueryTotalProducedEventCount: 3
+ QueryTotalOutgoingEventCount: 2
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:57 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:57 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:57 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:57 AM
+ QueryTotalConsumedEventLatency: 24.4427
+ QueryTotalProducedEventLatency: 162.899
+ QueryTotalOutgoingEventLatency: 133.2898
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:45:57 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 28
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 9
+ QueryTotalConsumedEventCount: 9
+ QueryTotalProducedEventCount: 11
+ QueryTotalOutgoingEventCount: 10
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryTotalConsumedEventLatency: 24.764
+ QueryTotalProducedEventLatency: 183.991
+ QueryTotalOutgoingEventLatency: 236.8233
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:45:59 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryTotalConsumedEventLatency: 25.0008
+ QueryTotalProducedEventLatency: 188.199
+ QueryTotalOutgoingEventLatency: 289.7122
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:45:59 AM
+ QueryTotalConsumedEventLatency: 25.0008
+ QueryTotalProducedEventLatency: 188.199
+ QueryTotalOutgoingEventLatency: 321.3292
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 27
+ OperatorTotalCpuUsage: 127
+ QueryTotalIncomingEventCount: 9
+ QueryTotalConsumedEventCount: 9
+ QueryTotalProducedEventCount: 10
+ QueryTotalOutgoingEventCount: 9
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryTotalConsumedEventLatency: 15.4124
+ QueryTotalProducedEventLatency: 164.2213
+ QueryTotalOutgoingEventLatency: 134.5523
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:47:51 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 127
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 16
+ QueryTotalOutgoingEventCount: 13
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryTotalConsumedEventLatency: 15.5233
+ QueryTotalProducedEventLatency: 181.7245
+ QueryTotalOutgoingEventLatency: 246.7181
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 34
+ OperatorTotalCpuUsage: 127
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 16
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:47:51 AM
+ QueryTotalConsumedEventLatency: 15.5233
+ QueryTotalProducedEventLatency: 181.7245
+ QueryTotalOutgoingEventLatency: 282.0651
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 12
+ OperatorTotalCpuUsage: 120
+ QueryTotalIncomingEventCount: 4
+ QueryTotalConsumedEventCount: 4
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 4
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:49:45 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:49:45 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:49:45 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:49:45 AM
+ QueryTotalConsumedEventLatency: 13.7445
+ QueryTotalProducedEventLatency: 149.3416
+ QueryTotalOutgoingEventLatency: 127.6032
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:49:45 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 25
+ OperatorTotalCpuUsage: 131
+ QueryTotalIncomingEventCount: 8
+ QueryTotalConsumedEventCount: 8
+ QueryTotalProducedEventCount: 10
+ QueryTotalOutgoingEventCount: 9
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:49:47 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:49:47 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:49:47 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:49:47 AM
+ QueryTotalConsumedEventLatency: 14.3019
+ QueryTotalProducedEventLatency: 165.2564
+ QueryTotalOutgoingEventLatency: 225.1184
+ QueryLastProducedCtiTimestamp: 06-Jun-18 9:49:47 AM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 5
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 304
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 132
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 13
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryTotalConsumedEventLatency: 14.4848
+ QueryTotalProducedEventLatency: 173.618
+ QueryTotalOutgoingEventLatency: 268.3585
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 132
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryTotalConsumedEventLatency: 14.4848
+ QueryTotalProducedEventLatency: 173.618
+ QueryTotalOutgoingEventLatency: 337.6092
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 35
+ OperatorTotalCpuUsage: 132
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 18
+ QueryTotalOutgoingEventCount: 16
+ QueryLastIncomingEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastProducedEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 9:49:49 AM
+ QueryTotalConsumedEventLatency: 14.4848
+ QueryTotalProducedEventLatency: 173.618
+ QueryTotalOutgoingEventLatency: 417.6157
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 12
+ OperatorTotalCpuUsage: 130
+ QueryTotalIncomingEventCount: 4
+ QueryTotalConsumedEventCount: 4
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 4
+ QueryLastIncomingEventTimestamp: 06-Jun-18 12:07:55 PM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 12:07:55 PM
+ QueryLastProducedEventTimestamp: 06-Jun-18 12:07:55 PM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 12:07:55 PM
+ QueryTotalConsumedEventLatency: 29.8273
+ QueryTotalProducedEventLatency: 166.7946
+ QueryTotalOutgoingEventLatency: 142.8826
+ QueryLastProducedCtiTimestamp: 06-Jun-18 12:07:55 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 1
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 1
+ StreamMemoryIncludingEvents: 56
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 176
+ OperatorTotalScheduledCount: 25
+ OperatorTotalCpuUsage: 137
+ QueryTotalIncomingEventCount: 8
+ QueryTotalConsumedEventCount: 8
+ QueryTotalProducedEventCount: 10
+ QueryTotalOutgoingEventCount: 9
+ QueryLastIncomingEventTimestamp: 06-Jun-18 12:07:57 PM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 12:07:57 PM
+ QueryLastProducedEventTimestamp: 06-Jun-18 12:07:57 PM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 12:07:57 PM
+ QueryTotalConsumedEventLatency: 30.0274
+ QueryTotalProducedEventLatency: 181.8372
+ QueryTotalOutgoingEventLatency: 241.8562
+ QueryLastProducedCtiTimestamp: 06-Jun-18 12:07:57 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 4
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 248
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 13
+ QueryLastIncomingEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastProducedEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryTotalConsumedEventLatency: 30.2328
+ QueryTotalProducedEventLatency: 194.4693
+ QueryTotalOutgoingEventLatency: 286.2951
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 3
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 176
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastProducedEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryTotalConsumedEventLatency: 30.2328
+ QueryTotalProducedEventLatency: 194.4693
+ QueryTotalOutgoingEventLatency: 323.4391
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/EventManager':
+ AllEventsCount: 2
+ AllEventsMemory: 49152
+--------------------------------------------
+Diagnostic View for 'cep:/Server/PlanManager':
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 4
+ AllQueriesOperatorCount: 5
+--------------------------------------------
+Diagnostic View for 'cep:/Server/Query':
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 32
+ OperatorTotalCpuUsage: 138
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 17
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastConsumedEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastProducedEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryLastOutgoingEventTimestamp: 06-Jun-18 12:07:58 PM
+ QueryTotalConsumedEventLatency: 30.2328
+ QueryTotalProducedEventLatency: 194.4693
+ QueryTotalOutgoingEventLatency: 390.1718
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------

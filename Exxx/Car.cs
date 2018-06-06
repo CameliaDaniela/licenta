@@ -9,21 +9,21 @@ namespace Exxx
     public class Car
     {
         public int Speed { get; set; }
-        public string Name { get; set; }
+        public string RoadSegment { get; set; }
         int Id { get; set; }
-        public void CreateRandomCar()
+        public void CreateRandomCar(int noSegments)
         {
             Random random = new Random();
-            int length = random.Next(5, 20);
-            const string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-            var name=new string(Enumerable.Repeat(chars, length).Select(s => s[random.Next(s.Length)]).ToArray());
-            var speed = random.Next(10,120);
-            Name = name;
+            int rs = random.Next(1, noSegments);
+            //const string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            //var name=new string(Enumerable.Repeat(chars, length).Select(s => s[random.Next(s.Length)]).ToArray());
+            RoadSegment = rs.ToString();
+            var speed = random.Next(10, 120);
             Speed = speed;
         }
         public override string ToString()
         {
-            return "Name: " + Name + " Speed: " + Speed+"\n";
+            return "RoadSegment: " + RoadSegment + " Speed: " + Speed+"\n";
         }
     }
 }

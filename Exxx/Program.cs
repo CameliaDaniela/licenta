@@ -13,7 +13,8 @@ namespace Exxx
     {
         static void Main(string[] args)
         {
-            StreamInsight streamInsight = new StreamInsight(500);
+            
+            StreamInsight streamInsight = new StreamInsight(2,10);
             streamInsight.App();
             
         }

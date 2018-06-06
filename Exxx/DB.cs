@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Configuration;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,40 +12,50 @@ namespace Exxx
 {
     class DB
     {
+        ConnectionStringSettings ConnectionStringSetting;
+        string ConnectionString;
+        SqlConnection Connection;
+        SqlDataAdapter DataAdapter;
+        public  DB()
+        {
+            ConnectionStringSetting = ConfigurationManager.ConnectionStrings["connectionStr"];
+           ConnectionString = ConnectionStringSetting.ConnectionString.ToString();
+           Connection = new SqlConnection(ConnectionString);
+             DataAdapter = new SqlDataAdapter();
+        }
 
-        SqlConnection conn = new SqlConnection("Data source=DESKTOP-F3CIUE8\\SQLEXPRESS;Initial Catalog=Licenta;Integrated Security=true");
-        SqlDataAdapter da = new SqlDataAdapter();
-    
+        
+
         public void WriteToDB(int param1, DateTime param2, String param3)
         {
             string saveDataEv = "INSERT into DataEvent (ActivityCode,StartTime,StatusEvent ) VALUES (@actCode,@stT,@status)";
-            using (da.InsertCommand = new SqlCommand(saveDataEv, conn))
+            using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
             {
 
-                da.InsertCommand.Parameters.Add("@actCode", SqlDbType.Int).Value = param1;
-                da.InsertCommand.Parameters.Add("@stT", SqlDbType.DateTime).Value = param2;
-                da.InsertCommand.Parameters.Add("@status", SqlDbType.VarChar, 50).Value = param3;
-                conn.Open();
-                da.InsertCommand.ExecuteNonQuery();
+                DataAdapter.InsertCommand.Parameters.Add("@actCode", SqlDbType.Int).Value = param1;
+                DataAdapter.InsertCommand.Parameters.Add("@stT", SqlDbType.DateTime).Value = param2;
+                DataAdapter.InsertCommand.Parameters.Add("@status", SqlDbType.VarChar, 50).Value = param3;
+                Connection.Open();
+                DataAdapter.InsertCommand.ExecuteNonQuery();
             }
         }
-        public void WriteToDB(int param1, String param2)
+        public void WriteToDB(int param1, string param2)
         {
-            string saveDataEv = "INSERT into Car (NameCar,Speed) VALUES (@nameC,@speed)";
+            string saveDataEv = "INSERT into Car (RoadSegment,Speed) VALUES (@nameC,@speed)";
 
-            using (da.InsertCommand = new SqlCommand(saveDataEv, conn))
+            using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
             {
 
-                da.InsertCommand.Parameters.Add("@speed", SqlDbType.Int).Value = param1;
-                da.InsertCommand.Parameters.Add("@nameC", SqlDbType.VarChar,50).Value = param2;
-                conn.Open();
-                da.InsertCommand.ExecuteNonQuery();
+                DataAdapter.InsertCommand.Parameters.Add("@speed", SqlDbType.Int).Value = param1;
+                DataAdapter.InsertCommand.Parameters.Add("@nameC", SqlDbType.VarChar,50).Value = param2;
+                Connection.Open();
+                DataAdapter.InsertCommand.ExecuteNonQuery();
             }
         }
         public List<DataEvent> ReadFromDB(int no) {
             List<DataEvent> list = new List<DataEvent>();
 
-            da.SelectCommand = new SqlCommand("SELECT top (@param) * from DataEvent",conn);
+            DataAdapter.SelectCommand = new SqlCommand("SELECT top (@param) * from DataEvent",Connection);
             SqlParameter parameter = new SqlParameter
             {
                 ParameterName = "@param",
@@ -51,10 +63,10 @@ namespace Exxx
                 Direction = ParameterDirection.Input,
                 Value = no
             };
-            da.SelectCommand.Parameters.Add(parameter);
-            //da.SelectCommand.Parameters.Add("@value1", SqlDbType.Int).Value = no;
-            conn.Open();
-            using (SqlDataReader reader = da.SelectCommand.ExecuteReader())
+            DataAdapter.SelectCommand.Parameters.Add(parameter);
+            //DataAdapter.SelectCommand.Parameters.Add("@value1", SqlDbType.Int).Value = no;
+            Connection.Open();
+            using (SqlDataReader reader = DataAdapter.SelectCommand.ExecuteReader())
             {
                 if (reader != null)
                 {
@@ -77,7 +89,7 @@ namespace Exxx
         {
             List<Car> list = new List<Car>();
 
-            da.SelectCommand = new SqlCommand("SELECT top (@param) * from Car", conn);
+            DataAdapter.SelectCommand = new SqlCommand("SELECT top (@param) * from Car", Connection);
             SqlParameter parameter = new SqlParameter
             {
                 ParameterName = "@param",
@@ -85,10 +97,10 @@ namespace Exxx
                 Direction = ParameterDirection.Input,
                 Value = no
             };
-            da.SelectCommand.Parameters.Add(parameter);
-            //da.SelectCommand.Parameters.Add("@value1", SqlDbType.Int).Value = no;
-            conn.Open();
-            using (SqlDataReader reader = da.SelectCommand.ExecuteReader())
+            DataAdapter.SelectCommand.Parameters.Add(parameter);
+            //DataAdapter.SelectCommand.Parameters.Add("@value1", SqlDbType.Int).Value = no;
+            Connection.Open();
+            using (SqlDataReader reader = DataAdapter.SelectCommand.ExecuteReader())
             {
                 if (reader != null)
                 {
@@ -96,7 +108,7 @@ namespace Exxx
                     {
                         Car de = new Car
                         {
-                            Name = reader["NameCar"].ToString(),
+                            RoadSegment = reader["RoadSegment"].ToString(),
                             Speed = int.Parse(reader["Speed"].ToString()),
                             
                         };

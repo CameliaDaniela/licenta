@@ -6,22 +6,49 @@ using System.Reactive.Linq;
 using System.Collections.Generic;
 using System.IO;
 using Microsoft.ComplexEventProcessing.Linq;
+using System.Linq;
 
 namespace Exxx
 {
     class StreamInsight
     {
+        const int FromSec = 1000;
         int NoSeconds { get; set; }
+        //number of values /second
+        int NoValues { get; set; }
+        //max number of events in the flow
+        int CountMax { get; set; }
         List<String> List { get; set; }
-        public StreamInsight(int noSec)
+        int NoSegments { get; set; }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="noValues"> number of values per second</param>
+        /// <param name="countM"> maxim number of events in the data flow </param>
+        /// <param name="noSegments">number of car segments</param>
+        public StreamInsight(int noValues, int countM, int noSegments)
         {
-            NoSeconds = noSec;
+            CountMax = countM;
+            NoValues = noValues;
+            NoSeconds = FromSec/noValues;
+            NoSegments = noSegments;
             List = new List<string>();
         }
+        public StreamInsight(int noValues, int countM)
+        {
+            CountMax = countM;
+            NoValues = noValues;
+            NoSeconds = FromSec / noValues;
+            NoSegments = 10;
+            List = new List<string>();
+        }
+        /// <summary>
+        /// analyze data object event flow
+        /// </summary>
         public void App()
         {
             Console.WriteLine("Starting observable source...");
-            using (var source = new RandomObject<Car>(NoSeconds))//genereaza o data la fiecare 500 milisecunde
+            using (var source = new RandomObject<Car>(NoSeconds,NoValues,CountMax,NoSegments))//genereaza o data la fiecare 500 milisecunde
             {
                 Console.WriteLine("Started observable source.");
                 using (var server = Server.Create("Default"))
@@ -70,17 +97,17 @@ namespace Exxx
                             Console.WriteLine(s);
                             if(s!=null)
                                 List.Add(s);
+                            RetrieveDiagnostics rD = new RetrieveDiagnostics();
 
-
-                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
-                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/PlanManager")));
+                            rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
+                            rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/PlanManager")));
                             // RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/MyStreaminsigtApp/serverApp/Query/query")), Console.Out);
 
                             DiagnosticSettings settings = new DiagnosticSettings(DiagnosticAspect.GenerateErrorReports, DiagnosticLevel.Always);
                             server.SetDiagnosticSettings(new Uri("cep:/Server"), settings);
-                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
-                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/PlanManager")));
-                            RetrieveDiagnostics(server.GetDiagnosticView(new Uri("cep:/Server/Query")));
+                            rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
+                            rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/PlanManager")));
+                            rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/Query")));
 
 
 
@@ -98,32 +125,10 @@ namespace Exxx
                 
             }
             Console.WriteLine("Stopped observable source.");
-            foreach (var ob in List)
-            {
-                char[] c = { '{', '}', ' ', '=' };
-               string[] str = ob.Split(c);
-                Console.WriteLine(str[0]);
-                Console.WriteLine(str[1]);
-                Console.WriteLine(str[2]);
-            }
             Console.ReadLine();
 
         }
-        private static void RetrieveDiagnostics(DiagnosticView diagview)
-        {
-            using (StreamWriter sw = new StreamWriter("logs.txt", append: true))
-            {
-
-                // Display diagnostics for diagnostic view object  
-                sw.WriteLine("Diagnostic View for '" + diagview.ObjectName + "':");
-
-                foreach (KeyValuePair<string, object> diagnostics in diagview)
-                {
-                    sw.WriteLine(" " + diagnostics.Key + ": " + diagnostics.Value);
-                }
-                sw.WriteLine("--------------------------------------------");
-            }
-        }
+       
         
     }
 }

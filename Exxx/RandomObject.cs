@@ -21,12 +21,15 @@ namespace Exxx
         private readonly Timer _timer;
         private readonly int _timerPeriod;
         private int count;
+        private int NoValues;
+        private int NoSegments;
+        private int CountMax;
 
         /// <summary>
         /// Random observable subject. It produces an integer in regular time periods.
         /// </summary>
         /// <param name="timerPeriod">Timer period (in milliseconds)</param>
-        public RandomObject(int timerPeriod)
+        public RandomObject(int timerPeriod,int noValues, int countMax, int noSegments)
         {
             deList = Citire();
             _done = false;
@@ -36,6 +39,9 @@ namespace Exxx
             _timer = new Timer(EmitRandomValue);  //define Timer and delegate
             _timerPeriod = timerPeriod;
             count = 0;
+            CountMax = countMax;
+            NoSegments = noSegments;
+            NoValues = noValues;
             Schedule(); //call function that resets timer
         }
 
@@ -63,7 +69,7 @@ namespace Exxx
                         //T obj = deList.ElementAt(value);
                         observer.OnNext(value);
                         count++;
-                        if (count == 11)
+                        if (count == CountMax)
                         {
                             _done = true;
                             observer.OnCompleted();
@@ -73,7 +79,8 @@ namespace Exxx
   
                         DBWrite(value);
                         Console.WriteLine(value);
-                        
+                        DateTime now = DateTime.UtcNow;
+                        Console.WriteLine(now);
 
                         //Console.WriteLine(count);
                     }
@@ -99,7 +106,7 @@ namespace Exxx
                 Car car = new Car();
                 List<Car> de = (List<Car>)v.AsEnumerable();
                 car = de.ElementAt(0);
-                dbWrite.WriteToDB(car.Speed, car.Name);
+                dbWrite.WriteToDB(car.Speed, car.RoadSegment);
             }
            
         }
@@ -147,6 +154,7 @@ namespace Exxx
                 {
                     //triggers EmitRandomValue
                     _timer.Change(_timerPeriod, Timeout.Infinite);
+                    //Console.WriteLine("Time----" + _timer.ToString() + "Timer period----" + _timerPeriod.ToString());
                 }
             }
         }
@@ -159,7 +167,7 @@ namespace Exxx
             if(typeof(T)==typeof(Car))
             {
                 Car c = new Car();
-                c.CreateRandomCar();
+                c.CreateRandomCar(NoSegments);
                 List<Car> list = new List<Car>
                 {
                     c
