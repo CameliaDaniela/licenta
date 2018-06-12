@@ -4,13 +4,22 @@ go
 IF OBJECT_ID('dbo.Car') IS NOT NULL
     DROP TABLE dbo.Car;
 go
-
+IF OBJECT_ID('dbo.Car') IS NOT NULL
+    DROP TABLE dbo.Car;
+go
+IF OBJECT_ID('dbo.Query') IS NOT NULL
+    DROP TABLE dbo.Query;
+go
+IF OBJECT_ID('dbo.QueryLatency') IS NOT NULL
+    DROP TABLE dbo.QueryLatency;
+go
 IF OBJECT_ID('dbo.DataEvent') IS NOT NULL
     DROP TABLE dbo.DataEvent;
 go
 create table Car(
  IdCar int primary key identity(1,1),
- NameCar varchar(50) not null,
+ TimeStmp int,
+ RoadSegment varchar(50) not null,
  Speed int
 )
 go
@@ -21,6 +30,16 @@ StartTime datetime,
 StatusEvent varchar(50) not null
 )
 go
+create table Query (
+IdQuery int primary key identity(1,1),
+Avreage float,
+GroupId int,
+)
+create table QueryLatency(
+IdQueryLatency int primary key identity(1,1),
+KeyQL nvarchar(100),
+ValueQL nvarchar(100)
+)
 
 Create proc insertEventData
 as 
@@ -56,4 +75,6 @@ drop proc insertEventData
 go
 select top 1 * from DataEvent
 select * from Car
+select * from Query
+select * from QueryLatency
 insert into DataEvent values(22,'1999-10-23 12:45:37' ,'Pending ')

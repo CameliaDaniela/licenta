@@ -18,21 +18,22 @@ namespace Exxx
         int NoValues { get; set; }
         //max number of events in the flow
         int CountMax { get; set; }
-        List<String> List { get; set; }
+        
         int NoSegments { get; set; }
+        DB DB = new DB();
         /// <summary>
         /// 
         /// </summary>
         /// <param name="noValues"> number of values per second</param>
         /// <param name="countM"> maxim number of events in the data flow </param>
-        /// <param name="noSegments">number of car segments</param>
+        /// <param name="noSegments">number of road segments</param>
         public StreamInsight(int noValues, int countM, int noSegments)
         {
             CountMax = countM;
             NoValues = noValues;
             NoSeconds = FromSec/noValues;
             NoSegments = noSegments;
-            List = new List<string>();
+          
         }
         public StreamInsight(int noValues, int countM)
         {
@@ -40,7 +41,7 @@ namespace Exxx
             NoValues = noValues;
             NoSeconds = FromSec / noValues;
             NoSegments = 10;
-            List = new List<string>();
+           
         }
         /// <summary>
         /// analyze data object event flow
@@ -67,17 +68,20 @@ namespace Exxx
 
 
                     //query that sums of events within 2 second tumbling windows
-                    //var query = from ob in stream.TumblingWindow(TimeSpan.FromSeconds(2), HoppingWindowOutputPolicy.ClipToWindowEnd)
+                    //var query1 = from ob in stream.TumblingWindow(TimeSpan.FromSeconds(2), HoppingWindowOutputPolicy.ClipToWindowEnd)
                     //            select new
                     //            {
-                    //                sum = ob.Sum(e => e.Value.ActivityCode),
-                    //                max =ob.Max(e=>e.Value.StartTime)
+                    //                sum = ob.Sum(e => e.Value.Speed),
+                                 
                     //            };
                     //List<double> list;
-                    var query = from ob in stream.HoppingWindow(TimeSpan.FromSeconds(5), TimeSpan.FromSeconds(2))
+                    var query = from rs in stream
+                                group rs by rs.Value.RoadSegment into roadSeg
+                                from ob in roadSeg.HoppingWindow(TimeSpan.FromSeconds(5), TimeSpan.FromSeconds(2))
                                 select new
                                 {
                                     avreage = ob.Avg(e => e.Value.Speed),
+                                    groupId = roadSeg.Key
                                     // max = ob.Max(e => e.Value.StartTime)
 
                                 };
@@ -88,6 +92,7 @@ namespace Exxx
                     //  subscription.Dispose();
                     //**ienumerable sink
                     var enumerator = query.ToPointEnumerable().GetEnumerator();
+
                     while (enumerator.MoveNext())
                     {
 
@@ -95,8 +100,9 @@ namespace Exxx
                         {
                            var s =enumerator.Current.Payload.ToString();
                             Console.WriteLine(s);
-                            if(s!=null)
-                                List.Add(s);
+                            DB.Write(s);
+                            //if(s!=null)
+                            //    List.Add(s);
                             RetrieveDiagnostics rD = new RetrieveDiagnostics();
 
                             rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/EventManager")));
@@ -110,9 +116,9 @@ namespace Exxx
                             rD.FileWrite(server.GetDiagnosticView(new Uri("cep:/Server/Query")));
 
 
-
                         }
                     }
+
 
 
 

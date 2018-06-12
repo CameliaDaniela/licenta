@@ -24,6 +24,8 @@ namespace Exxx
         private int NoValues;
         private int NoSegments;
         private int CountMax;
+        private int TimeStmp;
+        private int cntTS;
 
         /// <summary>
         /// Random observable subject. It produces an integer in regular time periods.
@@ -39,9 +41,11 @@ namespace Exxx
             _timer = new Timer(EmitRandomValue);  //define Timer and delegate
             _timerPeriod = timerPeriod;
             count = 0;
-            CountMax = countMax;
-            NoSegments = noSegments;
-            NoValues = noValues;
+            CountMax = countMax;//number maxim of events in flow
+            NoSegments = noSegments;//number of road segments
+            NoValues = noValues;//number of values/second
+            TimeStmp = 1;
+            cntTS =0;
             Schedule(); //call function that resets timer
         }
 
@@ -68,7 +72,13 @@ namespace Exxx
                     {
                         //T obj = deList.ElementAt(value);
                         observer.OnNext(value);
-                        count++;
+
+                       
+                        if (cntTS == NoValues)
+                        {
+                            TimeStmp++;
+                            cntTS = 0;
+                        }
                         if (count == CountMax)
                         {
                             _done = true;
@@ -81,7 +91,8 @@ namespace Exxx
                         Console.WriteLine(value);
                         DateTime now = DateTime.UtcNow;
                         Console.WriteLine(now);
-
+                        count++;
+                        cntTS++;
                         //Console.WriteLine(count);
                     }
                 }
@@ -106,7 +117,7 @@ namespace Exxx
                 Car car = new Car();
                 List<Car> de = (List<Car>)v.AsEnumerable();
                 car = de.ElementAt(0);
-                dbWrite.WriteToDB(car.Speed, car.RoadSegment);
+                dbWrite.WriteToDB(TimeStmp,car.Speed, car.RoadSegment);
             }
            
         }

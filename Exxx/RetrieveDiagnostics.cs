@@ -16,11 +16,12 @@ namespace Exxx
             {
 
                 // Display diagnostics for diagnostic view object  
-                sw.WriteLine("Diagnostic View for '" + diagview.ObjectName + "':");
-
+                // sw.WriteLine("Diagnostic View for '" + diagview.ObjectName + "':");
+                DB dB = new DB();
                 foreach (KeyValuePair<string, object> diagnostics in diagview)
                 {
-                    sw.WriteLine(" " + diagnostics.Key + ": " + diagnostics.Value);
+                     sw.WriteLine(" " + diagnostics.Key + ": " + diagnostics.Value);
+                    //dB.WriteToDB(diagnostics.Key.ToString(), diagnostics.Value.ToString());
                 }
                 sw.WriteLine("--------------------------------------------");
             }

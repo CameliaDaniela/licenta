@@ -25,7 +25,12 @@ namespace Exxx
         }
 
         
-
+        /// <summary>
+        /// insert a DataEvent into database
+        /// </summary>
+        /// <param name="param1"></param>
+        /// <param name="param2"></param>
+        /// <param name="param3"></param>
         public void WriteToDB(int param1, DateTime param2, String param3)
         {
             string saveDataEv = "INSERT into DataEvent (ActivityCode,StartTime,StatusEvent ) VALUES (@actCode,@stT,@status)";
@@ -38,19 +43,67 @@ namespace Exxx
                 Connection.Open();
                 DataAdapter.InsertCommand.ExecuteNonQuery();
             }
+            Connection.Close();
         }
-        public void WriteToDB(int param1, string param2)
+        /// <summary>
+        /// insert a Car into database
+        /// </summary>
+        /// <param name="param1"></param>
+        /// <param name="param2"></param>
+        public void WriteToDB(int ts,int param1, string param2)
         {
-            string saveDataEv = "INSERT into Car (RoadSegment,Speed) VALUES (@nameC,@speed)";
+            string saveDataEv = "INSERT into Car (TimeStmp,RoadSegment,Speed) VALUES (@tsmp,@nameC,@speed)";
 
             using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
             {
-
+                DataAdapter.InsertCommand.Parameters.Add("@tsmp", SqlDbType.Int).Value = ts;
                 DataAdapter.InsertCommand.Parameters.Add("@speed", SqlDbType.Int).Value = param1;
                 DataAdapter.InsertCommand.Parameters.Add("@nameC", SqlDbType.VarChar,50).Value = param2;
                 Connection.Open();
                 DataAdapter.InsertCommand.ExecuteNonQuery();
+               
             }
+            Connection.Close();
+        }
+        public void WriteToDB(string param1, string param2)
+        {
+            string saveDataEv = "INSERT into QueryLatency (KeyQL,ValueQL) VALUES (@key,@value)";
+
+            using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
+            {
+                DataAdapter.InsertCommand.Parameters.Add("@key", SqlDbType.VarChar,100).Value = param1;
+                DataAdapter.InsertCommand.Parameters.Add("@value", SqlDbType.VarChar, 100).Value = param2;
+                Connection.Open();
+                DataAdapter.InsertCommand.ExecuteNonQuery();
+
+            }
+            Connection.Close();
+        }
+        public void Write(String s)
+        {
+            string[] split =s.Split(new[] { ',', ' ','{','}','='}, StringSplitOptions.RemoveEmptyEntries);
+            WriteToDB(float.Parse(split[1]) ,int.Parse(split[3]));
+
+        }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="param1">avreage</param>
+        /// <param name="param2">groupId(RoadSegment)</param>
+        public void WriteToDB(float param1, int param2)
+        {
+            string saveDataEv = "INSERT into Query (Avreage,GroupId) VALUES (@avg,@gId)";
+
+            using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
+            {
+
+                DataAdapter.InsertCommand.Parameters.Add("@avg", SqlDbType.Float).Value = param1;
+                DataAdapter.InsertCommand.Parameters.Add("@gId", SqlDbType.Int).Value = param2;
+                Connection.Open();
+                DataAdapter.InsertCommand.ExecuteNonQuery();
+               
+            }
+            Connection.Close();
         }
         public List<DataEvent> ReadFromDB(int no) {
             List<DataEvent> list = new List<DataEvent>();
@@ -82,6 +135,7 @@ namespace Exxx
                     }
                 }
             }
+            Connection.Close();
             return list;
 
         }
@@ -115,7 +169,9 @@ namespace Exxx
                         list.Add(de);
                     }
                 }
+                
             }
+            Connection.Close();
             return list;
 
         }

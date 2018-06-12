@@ -14,7 +14,9 @@ namespace Exxx
         static void Main(string[] args)
         {
             
-            StreamInsight streamInsight = new StreamInsight(2,10);
+            StreamInsight streamInsight = new StreamInsight(4,10);
+            // StreamInsight streamInsight = new StreamInsight(4,10,10);
+            //no values/ minute, no events in the flow, no road segments
             streamInsight.App();
             
         }
