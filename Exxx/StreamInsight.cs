@@ -72,9 +72,13 @@ namespace Exxx
                     //            select new
                     //            {
                     //                sum = ob.Sum(e => e.Value.Speed),
-                                 
+
                     //            };
                     //List<double> list;
+                    var snapshotResult = from cars in stream.SnapshotWindow()
+                                         select new {
+                                             avreage = cars.Avg(e => e.Value.Speed),
+                                         };
                     var query = from rs in stream
                                 group rs by rs.Value.RoadSegment into roadSeg
                                 from ob in roadSeg.HoppingWindow(TimeSpan.FromSeconds(5), TimeSpan.FromSeconds(2))
