@@ -15,8 +15,7 @@ namespace Exxx
         {
             Random random = new Random();
             int rs = random.Next(1, noSegments);
-            //const string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-            //var name=new string(Enumerable.Repeat(chars, length).Select(s => s[random.Next(s.Length)]).ToArray());
+           
             RoadSegment = rs.ToString();
             var speed = random.Next(10, 120);
             Speed = speed;

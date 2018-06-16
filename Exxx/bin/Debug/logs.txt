@@ -20746,3 +20746,5001 @@ Diagnostic View for 'cep:/Server/Query':
  QueryTotalOutgoingEventLatency: 7571.7115
  QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
 --------------------------------------------
+ AllEventsCount: 4
+ AllEventsMemory: 262144
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 4
+ AllEventsMemory: 262144
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 135
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 308
+ OperatorTotalScheduledCount: 31
+ OperatorTotalCpuUsage: 406
+ QueryTotalIncomingEventCount: 3
+ QueryTotalConsumedEventCount: 3
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 2
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryTotalConsumedEventLatency: 18.269
+ QueryTotalProducedEventLatency: 412.4331
+ QueryTotalOutgoingEventLatency: 284.4289
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:02 AM
+--------------------------------------------
+ AllEventsCount: 5
+ AllEventsMemory: 311296
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 5
+ AllEventsMemory: 311296
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 112
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 308
+ OperatorTotalScheduledCount: 33
+ OperatorTotalCpuUsage: 408
+ QueryTotalIncomingEventCount: 3
+ QueryTotalConsumedEventCount: 3
+ QueryTotalProducedEventCount: 5
+ QueryTotalOutgoingEventCount: 3
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:02 AM
+ QueryTotalConsumedEventLatency: 18.269
+ QueryTotalProducedEventLatency: 412.4331
+ QueryTotalOutgoingEventLatency: 463.1084
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:02 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1056
+ OperatorTotalScheduledCount: 100
+ OperatorTotalCpuUsage: 440
+ QueryTotalIncomingEventCount: 10
+ QueryTotalConsumedEventCount: 10
+ QueryTotalProducedEventCount: 19
+ QueryTotalOutgoingEventCount: 12
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.5165
+ QueryTotalProducedEventLatency: 630.1802
+ QueryTotalOutgoingEventLatency: 819.1101
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 451
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1056
+ OperatorTotalScheduledCount: 100
+ OperatorTotalCpuUsage: 440
+ QueryTotalIncomingEventCount: 10
+ QueryTotalConsumedEventCount: 10
+ QueryTotalProducedEventCount: 19
+ QueryTotalOutgoingEventCount: 13
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.5165
+ QueryTotalProducedEventLatency: 630.1802
+ QueryTotalOutgoingEventLatency: 874.6037
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 428
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1100
+ OperatorTotalScheduledCount: 110
+ OperatorTotalCpuUsage: 440
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 14
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.5919
+ QueryTotalProducedEventLatency: 635.1911
+ QueryTotalOutgoingEventLatency: 971.6226
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1100
+ OperatorTotalScheduledCount: 110
+ OperatorTotalCpuUsage: 440
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 15
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.5919
+ QueryTotalProducedEventLatency: 635.1911
+ QueryTotalOutgoingEventLatency: 1110.9038
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1100
+ OperatorTotalScheduledCount: 110
+ OperatorTotalCpuUsage: 440
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 16
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.5919
+ QueryTotalProducedEventLatency: 635.1911
+ QueryTotalOutgoingEventLatency: 1279.544
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 191
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1100
+ OperatorTotalScheduledCount: 110
+ OperatorTotalCpuUsage: 440
+ QueryTotalIncomingEventCount: 11
+ QueryTotalConsumedEventCount: 11
+ QueryTotalProducedEventCount: 20
+ QueryTotalOutgoingEventCount: 17
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.5919
+ QueryTotalProducedEventLatency: 635.1911
+ QueryTotalOutgoingEventLatency: 1482.6619
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1144
+ OperatorTotalScheduledCount: 119
+ OperatorTotalCpuUsage: 449
+ QueryTotalIncomingEventCount: 12
+ QueryTotalConsumedEventCount: 12
+ QueryTotalProducedEventCount: 21
+ QueryTotalOutgoingEventCount: 18
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:03 AM
+ QueryTotalConsumedEventLatency: 25.8313
+ QueryTotalProducedEventLatency: 645.3232
+ QueryTotalOutgoingEventLatency: 1735.2677
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:03 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1364
+ OperatorTotalScheduledCount: 161
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 17
+ QueryTotalConsumedEventCount: 17
+ QueryTotalProducedEventCount: 34
+ QueryTotalOutgoingEventCount: 26
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.0549
+ QueryTotalProducedEventLatency: 687.5149
+ QueryTotalOutgoingEventLatency: 2335.6334
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 586
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1408
+ OperatorTotalScheduledCount: 169
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 18
+ QueryTotalConsumedEventCount: 18
+ QueryTotalProducedEventCount: 35
+ QueryTotalOutgoingEventCount: 27
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.1773
+ QueryTotalProducedEventLatency: 687.9617
+ QueryTotalOutgoingEventLatency: 2514.2364
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 507
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1408
+ OperatorTotalScheduledCount: 169
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 18
+ QueryTotalConsumedEventCount: 18
+ QueryTotalProducedEventCount: 35
+ QueryTotalOutgoingEventCount: 28
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.1773
+ QueryTotalProducedEventLatency: 687.9617
+ QueryTotalOutgoingEventLatency: 2758.1733
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 484
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1408
+ OperatorTotalScheduledCount: 178
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 19
+ QueryTotalConsumedEventCount: 19
+ QueryTotalProducedEventCount: 36
+ QueryTotalOutgoingEventCount: 29
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.2423
+ QueryTotalProducedEventLatency: 689.1076
+ QueryTotalOutgoingEventLatency: 3038.4455
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 405
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1408
+ OperatorTotalScheduledCount: 178
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 19
+ QueryTotalConsumedEventCount: 19
+ QueryTotalProducedEventCount: 36
+ QueryTotalOutgoingEventCount: 30
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.2423
+ QueryTotalProducedEventLatency: 689.1076
+ QueryTotalOutgoingEventLatency: 3396.4821
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 382
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1452
+ OperatorTotalScheduledCount: 187
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 20
+ QueryTotalConsumedEventCount: 20
+ QueryTotalProducedEventCount: 37
+ QueryTotalOutgoingEventCount: 31
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.2843
+ QueryTotalProducedEventLatency: 689.6337
+ QueryTotalOutgoingEventLatency: 3788.3595
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 303
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1452
+ OperatorTotalScheduledCount: 187
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 20
+ QueryTotalConsumedEventCount: 20
+ QueryTotalProducedEventCount: 37
+ QueryTotalOutgoingEventCount: 32
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.2843
+ QueryTotalProducedEventLatency: 689.6337
+ QueryTotalOutgoingEventLatency: 4308.5731
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 280
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1496
+ OperatorTotalScheduledCount: 196
+ OperatorTotalCpuUsage: 461
+ QueryTotalIncomingEventCount: 21
+ QueryTotalConsumedEventCount: 21
+ QueryTotalProducedEventCount: 38
+ QueryTotalOutgoingEventCount: 33
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:04 AM
+ QueryTotalConsumedEventLatency: 26.3306
+ QueryTotalProducedEventLatency: 690.0744
+ QueryTotalOutgoingEventLatency: 4901.9557
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:04 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 227
+ OperatorTotalCpuUsage: 465
+ QueryTotalIncomingEventCount: 24
+ QueryTotalConsumedEventCount: 24
+ QueryTotalProducedEventCount: 50
+ QueryTotalOutgoingEventCount: 41
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryTotalConsumedEventLatency: 26.5675
+ QueryTotalProducedEventLatency: 710.7363
+ QueryTotalOutgoingEventLatency: 6696.2927
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:05 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 665
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 236
+ OperatorTotalCpuUsage: 465
+ QueryTotalIncomingEventCount: 25
+ QueryTotalConsumedEventCount: 25
+ QueryTotalProducedEventCount: 51
+ QueryTotalOutgoingEventCount: 42
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryTotalConsumedEventLatency: 26.6334
+ QueryTotalProducedEventLatency: 711.3765
+ QueryTotalOutgoingEventLatency: 7299.9383
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:05 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 642
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 246
+ OperatorTotalCpuUsage: 465
+ QueryTotalIncomingEventCount: 26
+ QueryTotalConsumedEventCount: 26
+ QueryTotalProducedEventCount: 52
+ QueryTotalOutgoingEventCount: 43
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryTotalConsumedEventLatency: 26.6945
+ QueryTotalProducedEventLatency: 711.8687
+ QueryTotalOutgoingEventLatency: 8032.9508
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:05 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 563
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 246
+ OperatorTotalCpuUsage: 465
+ QueryTotalIncomingEventCount: 26
+ QueryTotalConsumedEventCount: 26
+ QueryTotalProducedEventCount: 52
+ QueryTotalOutgoingEventCount: 44
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryTotalConsumedEventLatency: 26.6945
+ QueryTotalProducedEventLatency: 711.8687
+ QueryTotalOutgoingEventLatency: 8892.9451
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:05 AM
+--------------------------------------------
+ AllEventsCount: 26
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 26
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 17
+ StreamMemoryIncludingEvents: 1251
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 262
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 27
+ QueryTotalConsumedEventCount: 27
+ QueryTotalProducedEventCount: 62
+ QueryTotalOutgoingEventCount: 45
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:05 AM
+ QueryTotalConsumedEventLatency: 26.7567
+ QueryTotalProducedEventLatency: 781.9405
+ QueryTotalOutgoingEventLatency: 9793.0928
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 26
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 26
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 17
+ StreamMemoryIncludingEvents: 1228
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 271
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 28
+ QueryTotalConsumedEventCount: 28
+ QueryTotalProducedEventCount: 63
+ QueryTotalOutgoingEventCount: 46
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.8416
+ QueryTotalProducedEventLatency: 782.4379
+ QueryTotalOutgoingEventLatency: 10921.164
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 25
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 25
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 16
+ StreamMemoryIncludingEvents: 1149
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 271
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 28
+ QueryTotalConsumedEventCount: 28
+ QueryTotalProducedEventCount: 63
+ QueryTotalOutgoingEventCount: 47
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.8416
+ QueryTotalProducedEventLatency: 782.4379
+ QueryTotalOutgoingEventLatency: 12505.2014
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 15
+ StreamMemoryIncludingEvents: 1070
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 271
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 28
+ QueryTotalConsumedEventCount: 28
+ QueryTotalProducedEventCount: 63
+ QueryTotalOutgoingEventCount: 48
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.8416
+ QueryTotalProducedEventLatency: 782.4379
+ QueryTotalOutgoingEventLatency: 14124.5778
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 15
+ StreamMemoryIncludingEvents: 1047
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 281
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 29
+ QueryTotalConsumedEventCount: 29
+ QueryTotalProducedEventCount: 64
+ QueryTotalOutgoingEventCount: 49
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.9035
+ QueryTotalProducedEventLatency: 783.0599
+ QueryTotalOutgoingEventLatency: 15783.135
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 20
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 20
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 11
+ StreamMemoryIncludingEvents: 800
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 281
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 29
+ QueryTotalConsumedEventCount: 29
+ QueryTotalProducedEventCount: 64
+ QueryTotalOutgoingEventCount: 53
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.9035
+ QueryTotalProducedEventLatency: 783.0599
+ QueryTotalOutgoingEventLatency: 20553.57
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 19
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 19
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 10
+ StreamMemoryIncludingEvents: 721
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 281
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 29
+ QueryTotalConsumedEventCount: 29
+ QueryTotalProducedEventCount: 64
+ QueryTotalOutgoingEventCount: 54
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.9035
+ QueryTotalProducedEventLatency: 783.0599
+ QueryTotalOutgoingEventLatency: 21446.0137
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 19
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 19
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 10
+ StreamMemoryIncludingEvents: 698
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 290
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 30
+ QueryTotalConsumedEventCount: 30
+ QueryTotalProducedEventCount: 65
+ QueryTotalOutgoingEventCount: 55
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryTotalConsumedEventLatency: 26.9798
+ QueryTotalProducedEventLatency: 783.3904
+ QueryTotalOutgoingEventLatency: 22365.9808
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 619
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 290
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 30
+ QueryTotalConsumedEventCount: 30
+ QueryTotalProducedEventCount: 65
+ QueryTotalOutgoingEventCount: 56
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 26.9798
+ QueryTotalProducedEventLatency: 783.3904
+ QueryTotalOutgoingEventLatency: 23464.5091
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 540
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 290
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 30
+ QueryTotalConsumedEventCount: 30
+ QueryTotalProducedEventCount: 65
+ QueryTotalOutgoingEventCount: 57
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 26.9798
+ QueryTotalProducedEventLatency: 783.3904
+ QueryTotalOutgoingEventLatency: 24594.5619
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 461
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 290
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 30
+ QueryTotalConsumedEventCount: 30
+ QueryTotalProducedEventCount: 65
+ QueryTotalOutgoingEventCount: 58
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:06 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 26.9798
+ QueryTotalProducedEventLatency: 783.3904
+ QueryTotalOutgoingEventLatency: 25749.708
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:06 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 25
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 16
+ StreamMemoryIncludingEvents: 1149
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 299
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 31
+ QueryTotalConsumedEventCount: 31
+ QueryTotalProducedEventCount: 75
+ QueryTotalOutgoingEventCount: 59
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1347
+ QueryTotalProducedEventLatency: 795.9853
+ QueryTotalOutgoingEventLatency: 26930.6713
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 15
+ StreamMemoryIncludingEvents: 1070
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 299
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 31
+ QueryTotalConsumedEventCount: 31
+ QueryTotalProducedEventCount: 75
+ QueryTotalOutgoingEventCount: 60
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1347
+ QueryTotalProducedEventLatency: 795.9853
+ QueryTotalOutgoingEventLatency: 28144.3982
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 23
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 23
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 14
+ StreamMemoryIncludingEvents: 991
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 299
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 31
+ QueryTotalConsumedEventCount: 31
+ QueryTotalProducedEventCount: 75
+ QueryTotalOutgoingEventCount: 61
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1347
+ QueryTotalProducedEventLatency: 795.9853
+ QueryTotalOutgoingEventLatency: 29389.6393
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 299
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 31
+ QueryTotalConsumedEventCount: 31
+ QueryTotalProducedEventCount: 75
+ QueryTotalOutgoingEventCount: 66
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1347
+ QueryTotalProducedEventLatency: 795.9853
+ QueryTotalOutgoingEventLatency: 32671.7062
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 665
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 308
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 32
+ QueryTotalConsumedEventCount: 32
+ QueryTotalProducedEventCount: 76
+ QueryTotalOutgoingEventCount: 67
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1737
+ QueryTotalProducedEventLatency: 796.4179
+ QueryTotalOutgoingEventLatency: 32792.5265
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 586
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 308
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 32
+ QueryTotalConsumedEventCount: 32
+ QueryTotalProducedEventCount: 76
+ QueryTotalOutgoingEventCount: 68
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1737
+ QueryTotalProducedEventLatency: 796.4179
+ QueryTotalOutgoingEventLatency: 32947.8923
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 507
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 308
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 32
+ QueryTotalConsumedEventCount: 32
+ QueryTotalProducedEventCount: 76
+ QueryTotalOutgoingEventCount: 69
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.1737
+ QueryTotalProducedEventLatency: 796.4179
+ QueryTotalOutgoingEventLatency: 33131.8589
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 484
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 316
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 33
+ QueryTotalConsumedEventCount: 33
+ QueryTotalProducedEventCount: 77
+ QueryTotalOutgoingEventCount: 70
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.2223
+ QueryTotalProducedEventLatency: 799.5856
+ QueryTotalOutgoingEventLatency: 33347.7562
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 405
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 316
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 33
+ QueryTotalConsumedEventCount: 33
+ QueryTotalProducedEventCount: 77
+ QueryTotalOutgoingEventCount: 71
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.2223
+ QueryTotalProducedEventLatency: 799.5856
+ QueryTotalOutgoingEventLatency: 33610.8916
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 326
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 316
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 33
+ QueryTotalConsumedEventCount: 33
+ QueryTotalProducedEventCount: 77
+ QueryTotalOutgoingEventCount: 72
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.2223
+ QueryTotalProducedEventLatency: 799.5856
+ QueryTotalOutgoingEventLatency: 33903.531
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 247
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 316
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 33
+ QueryTotalConsumedEventCount: 33
+ QueryTotalProducedEventCount: 77
+ QueryTotalOutgoingEventCount: 73
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.2223
+ QueryTotalProducedEventLatency: 799.5856
+ QueryTotalOutgoingEventLatency: 34231.523
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 224
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 325
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 34
+ QueryTotalConsumedEventCount: 34
+ QueryTotalProducedEventCount: 78
+ QueryTotalOutgoingEventCount: 74
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:07 AM
+ QueryTotalConsumedEventLatency: 27.3358
+ QueryTotalProducedEventLatency: 800.7818
+ QueryTotalOutgoingEventLatency: 34590.7047
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:07 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1540
+ OperatorTotalScheduledCount: 345
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 36
+ QueryTotalConsumedEventCount: 36
+ QueryTotalProducedEventCount: 89
+ QueryTotalOutgoingEventCount: 80
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.4237
+ QueryTotalProducedEventLatency: 871.4913
+ QueryTotalOutgoingEventLatency: 35447.7157
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1540
+ OperatorTotalScheduledCount: 345
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 36
+ QueryTotalConsumedEventCount: 36
+ QueryTotalProducedEventCount: 89
+ QueryTotalOutgoingEventCount: 81
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.4237
+ QueryTotalProducedEventLatency: 871.4913
+ QueryTotalOutgoingEventLatency: 35486.4025
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 586
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 353
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 37
+ QueryTotalConsumedEventCount: 37
+ QueryTotalProducedEventCount: 90
+ QueryTotalOutgoingEventCount: 82
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.4607
+ QueryTotalProducedEventLatency: 872.0193
+ QueryTotalOutgoingEventLatency: 35594.7238
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 507
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 353
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 37
+ QueryTotalConsumedEventCount: 37
+ QueryTotalProducedEventCount: 90
+ QueryTotalOutgoingEventCount: 83
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.4607
+ QueryTotalProducedEventLatency: 872.0193
+ QueryTotalOutgoingEventLatency: 35733.9222
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 428
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 353
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 37
+ QueryTotalConsumedEventCount: 37
+ QueryTotalProducedEventCount: 90
+ QueryTotalOutgoingEventCount: 84
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.4607
+ QueryTotalProducedEventLatency: 872.0193
+ QueryTotalOutgoingEventLatency: 35900.0249
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 353
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 37
+ QueryTotalConsumedEventCount: 37
+ QueryTotalProducedEventCount: 90
+ QueryTotalOutgoingEventCount: 85
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.4607
+ QueryTotalProducedEventLatency: 872.0193
+ QueryTotalOutgoingEventLatency: 36094.8342
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 326
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 362
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 38
+ QueryTotalConsumedEventCount: 38
+ QueryTotalProducedEventCount: 91
+ QueryTotalOutgoingEventCount: 86
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.5058
+ QueryTotalProducedEventLatency: 872.4194
+ QueryTotalOutgoingEventLatency: 36321.8798
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 247
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 362
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 38
+ QueryTotalConsumedEventCount: 38
+ QueryTotalProducedEventCount: 91
+ QueryTotalOutgoingEventCount: 87
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.5058
+ QueryTotalProducedEventLatency: 872.4194
+ QueryTotalOutgoingEventLatency: 36582.7396
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1628
+ OperatorTotalScheduledCount: 362
+ OperatorTotalCpuUsage: 471
+ QueryTotalIncomingEventCount: 38
+ QueryTotalConsumedEventCount: 38
+ QueryTotalProducedEventCount: 91
+ QueryTotalOutgoingEventCount: 88
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:08 AM
+ QueryTotalConsumedEventLatency: 27.5058
+ QueryTotalProducedEventLatency: 872.4194
+ QueryTotalOutgoingEventLatency: 36878.5746
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:08 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1540
+ OperatorTotalScheduledCount: 421
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 44
+ QueryTotalConsumedEventCount: 44
+ QueryTotalProducedEventCount: 105
+ QueryTotalOutgoingEventCount: 97
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9336
+ QueryTotalProducedEventLatency: 948.5845
+ QueryTotalOutgoingEventLatency: 37624.4525
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1540
+ OperatorTotalScheduledCount: 421
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 44
+ QueryTotalConsumedEventCount: 44
+ QueryTotalProducedEventCount: 105
+ QueryTotalOutgoingEventCount: 98
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9336
+ QueryTotalProducedEventLatency: 948.5845
+ QueryTotalOutgoingEventLatency: 37660.3448
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 451
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1540
+ OperatorTotalScheduledCount: 421
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 44
+ QueryTotalConsumedEventCount: 44
+ QueryTotalProducedEventCount: 105
+ QueryTotalOutgoingEventCount: 99
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9336
+ QueryTotalProducedEventLatency: 948.5845
+ QueryTotalOutgoingEventLatency: 37722.4634
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 372
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1540
+ OperatorTotalScheduledCount: 421
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 44
+ QueryTotalConsumedEventCount: 44
+ QueryTotalProducedEventCount: 105
+ QueryTotalOutgoingEventCount: 100
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9336
+ QueryTotalProducedEventLatency: 948.5845
+ QueryTotalOutgoingEventLatency: 37815.6675
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 430
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 45
+ QueryTotalConsumedEventCount: 45
+ QueryTotalProducedEventCount: 106
+ QueryTotalOutgoingEventCount: 101
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9778
+ QueryTotalProducedEventLatency: 948.7748
+ QueryTotalOutgoingEventLatency: 37937.1462
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 430
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 45
+ QueryTotalConsumedEventCount: 45
+ QueryTotalProducedEventCount: 106
+ QueryTotalOutgoingEventCount: 102
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9778
+ QueryTotalProducedEventLatency: 948.7748
+ QueryTotalOutgoingEventLatency: 38095.4433
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 191
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 430
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 45
+ QueryTotalConsumedEventCount: 45
+ QueryTotalProducedEventCount: 106
+ QueryTotalOutgoingEventCount: 103
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9778
+ QueryTotalProducedEventLatency: 948.7748
+ QueryTotalOutgoingEventLatency: 38279.8469
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 112
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1584
+ OperatorTotalScheduledCount: 430
+ OperatorTotalCpuUsage: 483
+ QueryTotalIncomingEventCount: 45
+ QueryTotalConsumedEventCount: 45
+ QueryTotalProducedEventCount: 106
+ QueryTotalOutgoingEventCount: 104
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:09 AM
+ QueryTotalConsumedEventLatency: 27.9778
+ QueryTotalProducedEventLatency: 948.7748
+ QueryTotalOutgoingEventLatency: 38490.4231
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:09 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 504
+ OperatorTotalCpuUsage: 487
+ QueryTotalIncomingEventCount: 53
+ QueryTotalConsumedEventCount: 53
+ QueryTotalProducedEventCount: 122
+ QueryTotalOutgoingEventCount: 114
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4018
+ QueryTotalProducedEventLatency: 1005.9579
+ QueryTotalOutgoingEventLatency: 38874.9941
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 504
+ OperatorTotalCpuUsage: 487
+ QueryTotalIncomingEventCount: 53
+ QueryTotalConsumedEventCount: 53
+ QueryTotalProducedEventCount: 122
+ QueryTotalOutgoingEventCount: 115
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4018
+ QueryTotalProducedEventLatency: 1005.9579
+ QueryTotalOutgoingEventLatency: 38908.7651
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 451
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 504
+ OperatorTotalCpuUsage: 487
+ QueryTotalIncomingEventCount: 53
+ QueryTotalConsumedEventCount: 53
+ QueryTotalProducedEventCount: 122
+ QueryTotalOutgoingEventCount: 116
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4018
+ QueryTotalProducedEventLatency: 1005.9579
+ QueryTotalOutgoingEventLatency: 38972.7715
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 428
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 513
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 54
+ QueryTotalConsumedEventCount: 54
+ QueryTotalProducedEventCount: 123
+ QueryTotalOutgoingEventCount: 117
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4447
+ QueryTotalProducedEventLatency: 1013.6571
+ QueryTotalOutgoingEventLatency: 39080.7718
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 513
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 54
+ QueryTotalConsumedEventCount: 54
+ QueryTotalProducedEventCount: 123
+ QueryTotalOutgoingEventCount: 118
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4447
+ QueryTotalProducedEventLatency: 1013.6571
+ QueryTotalOutgoingEventLatency: 39233.0924
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 513
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 54
+ QueryTotalConsumedEventCount: 54
+ QueryTotalProducedEventCount: 123
+ QueryTotalOutgoingEventCount: 119
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4447
+ QueryTotalProducedEventLatency: 1013.6571
+ QueryTotalOutgoingEventLatency: 39416.9828
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 247
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 522
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 55
+ QueryTotalConsumedEventCount: 55
+ QueryTotalProducedEventCount: 124
+ QueryTotalOutgoingEventCount: 120
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4832
+ QueryTotalProducedEventLatency: 1013.9407
+ QueryTotalOutgoingEventLatency: 39642.8187
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 522
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 55
+ QueryTotalConsumedEventCount: 55
+ QueryTotalProducedEventCount: 124
+ QueryTotalOutgoingEventCount: 121
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:10 AM
+ QueryTotalConsumedEventLatency: 28.4832
+ QueryTotalProducedEventLatency: 1013.9407
+ QueryTotalOutgoingEventLatency: 39906.7065
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:10 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 573
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 61
+ QueryTotalConsumedEventCount: 61
+ QueryTotalProducedEventCount: 139
+ QueryTotalOutgoingEventCount: 130
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4326
+ QueryTotalProducedEventLatency: 1023.4513
+ QueryTotalOutgoingEventLatency: 40502.7075
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 573
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 61
+ QueryTotalConsumedEventCount: 61
+ QueryTotalProducedEventCount: 139
+ QueryTotalOutgoingEventCount: 131
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4326
+ QueryTotalProducedEventLatency: 1023.4513
+ QueryTotalOutgoingEventLatency: 40537.784
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 573
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 61
+ QueryTotalConsumedEventCount: 61
+ QueryTotalProducedEventCount: 139
+ QueryTotalOutgoingEventCount: 132
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4326
+ QueryTotalProducedEventLatency: 1023.4513
+ QueryTotalOutgoingEventLatency: 40601.2852
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 451
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 573
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 61
+ QueryTotalConsumedEventCount: 61
+ QueryTotalProducedEventCount: 139
+ QueryTotalOutgoingEventCount: 133
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4326
+ QueryTotalProducedEventLatency: 1023.4513
+ QueryTotalOutgoingEventLatency: 40695.6969
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 428
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1980
+ OperatorTotalScheduledCount: 582
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 62
+ QueryTotalConsumedEventCount: 62
+ QueryTotalProducedEventCount: 140
+ QueryTotalOutgoingEventCount: 134
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4973
+ QueryTotalProducedEventLatency: 1025.2974
+ QueryTotalOutgoingEventLatency: 40818.1001
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1980
+ OperatorTotalScheduledCount: 582
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 62
+ QueryTotalConsumedEventCount: 62
+ QueryTotalProducedEventCount: 140
+ QueryTotalOutgoingEventCount: 135
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4973
+ QueryTotalProducedEventLatency: 1025.2974
+ QueryTotalOutgoingEventLatency: 40973.3904
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1980
+ OperatorTotalScheduledCount: 582
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 62
+ QueryTotalConsumedEventCount: 62
+ QueryTotalProducedEventCount: 140
+ QueryTotalOutgoingEventCount: 136
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4973
+ QueryTotalProducedEventLatency: 1025.2974
+ QueryTotalOutgoingEventLatency: 41158.3132
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 191
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1980
+ OperatorTotalScheduledCount: 582
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 62
+ QueryTotalConsumedEventCount: 62
+ QueryTotalProducedEventCount: 140
+ QueryTotalOutgoingEventCount: 137
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.4973
+ QueryTotalProducedEventLatency: 1025.2974
+ QueryTotalOutgoingEventLatency: 41368.5491
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 2024
+ OperatorTotalScheduledCount: 591
+ OperatorTotalCpuUsage: 501
+ QueryTotalIncomingEventCount: 63
+ QueryTotalConsumedEventCount: 63
+ QueryTotalProducedEventCount: 141
+ QueryTotalOutgoingEventCount: 138
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:11 AM
+ QueryTotalConsumedEventLatency: 29.5394
+ QueryTotalProducedEventLatency: 1026.226
+ QueryTotalOutgoingEventLatency: 41607.0719
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:11 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 659
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 70
+ QueryTotalConsumedEventCount: 70
+ QueryTotalProducedEventCount: 157
+ QueryTotalOutgoingEventCount: 148
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.2499
+ QueryTotalProducedEventLatency: 1043.1379
+ QueryTotalOutgoingEventLatency: 42093.8506
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 659
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 70
+ QueryTotalConsumedEventCount: 70
+ QueryTotalProducedEventCount: 157
+ QueryTotalOutgoingEventCount: 149
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.2499
+ QueryTotalProducedEventLatency: 1043.1379
+ QueryTotalOutgoingEventLatency: 42154.9793
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 586
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1892
+ OperatorTotalScheduledCount: 667
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 71
+ QueryTotalConsumedEventCount: 71
+ QueryTotalProducedEventCount: 158
+ QueryTotalOutgoingEventCount: 150
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.2921
+ QueryTotalProducedEventLatency: 1043.442
+ QueryTotalOutgoingEventLatency: 42250.2482
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 507
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1892
+ OperatorTotalScheduledCount: 667
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 71
+ QueryTotalConsumedEventCount: 71
+ QueryTotalProducedEventCount: 158
+ QueryTotalOutgoingEventCount: 151
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.2921
+ QueryTotalProducedEventLatency: 1043.442
+ QueryTotalOutgoingEventLatency: 42418.7107
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 484
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1892
+ OperatorTotalScheduledCount: 676
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 72
+ QueryTotalConsumedEventCount: 72
+ QueryTotalProducedEventCount: 159
+ QueryTotalOutgoingEventCount: 152
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.3739
+ QueryTotalProducedEventLatency: 1043.8586
+ QueryTotalOutgoingEventLatency: 42613.5088
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 405
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1892
+ OperatorTotalScheduledCount: 676
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 72
+ QueryTotalConsumedEventCount: 72
+ QueryTotalProducedEventCount: 159
+ QueryTotalOutgoingEventCount: 153
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.3739
+ QueryTotalProducedEventLatency: 1043.8586
+ QueryTotalOutgoingEventLatency: 42950.2429
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 382
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 684
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 73
+ QueryTotalConsumedEventCount: 73
+ QueryTotalProducedEventCount: 160
+ QueryTotalOutgoingEventCount: 154
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.4119
+ QueryTotalProducedEventLatency: 1044.0028
+ QueryTotalOutgoingEventLatency: 43318.3813
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 303
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 684
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 73
+ QueryTotalConsumedEventCount: 73
+ QueryTotalProducedEventCount: 160
+ QueryTotalOutgoingEventCount: 155
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.4119
+ QueryTotalProducedEventLatency: 1044.0028
+ QueryTotalOutgoingEventLatency: 43718.7453
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 224
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1936
+ OperatorTotalScheduledCount: 684
+ OperatorTotalCpuUsage: 505
+ QueryTotalIncomingEventCount: 73
+ QueryTotalConsumedEventCount: 73
+ QueryTotalProducedEventCount: 160
+ QueryTotalOutgoingEventCount: 156
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:12 AM
+ QueryTotalConsumedEventLatency: 30.4119
+ QueryTotalProducedEventLatency: 1044.0028
+ QueryTotalOutgoingEventLatency: 44146.1631
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:12 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 727
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 78
+ QueryTotalConsumedEventCount: 78
+ QueryTotalProducedEventCount: 174
+ QueryTotalOutgoingEventCount: 165
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4117
+ QueryTotalProducedEventLatency: 1191.4023
+ QueryTotalOutgoingEventLatency: 45256.4671
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 727
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 78
+ QueryTotalConsumedEventCount: 78
+ QueryTotalProducedEventCount: 174
+ QueryTotalOutgoingEventCount: 166
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4117
+ QueryTotalProducedEventLatency: 1191.4023
+ QueryTotalOutgoingEventLatency: 45321.4171
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 727
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 78
+ QueryTotalConsumedEventCount: 78
+ QueryTotalProducedEventCount: 174
+ QueryTotalOutgoingEventCount: 167
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4117
+ QueryTotalProducedEventLatency: 1191.4023
+ QueryTotalOutgoingEventLatency: 45416.8434
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 451
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 727
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 78
+ QueryTotalConsumedEventCount: 78
+ QueryTotalProducedEventCount: 174
+ QueryTotalOutgoingEventCount: 168
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4117
+ QueryTotalProducedEventLatency: 1191.4023
+ QueryTotalOutgoingEventLatency: 45539.7981
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 428
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 737
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 79
+ QueryTotalConsumedEventCount: 79
+ QueryTotalProducedEventCount: 175
+ QueryTotalOutgoingEventCount: 169
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4769
+ QueryTotalProducedEventLatency: 1192.1624
+ QueryTotalOutgoingEventLatency: 45692.6145
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 737
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 79
+ QueryTotalConsumedEventCount: 79
+ QueryTotalProducedEventCount: 175
+ QueryTotalOutgoingEventCount: 170
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4769
+ QueryTotalProducedEventLatency: 1192.1624
+ QueryTotalOutgoingEventLatency: 45874.5753
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 737
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 79
+ QueryTotalConsumedEventCount: 79
+ QueryTotalProducedEventCount: 175
+ QueryTotalOutgoingEventCount: 171
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4769
+ QueryTotalProducedEventLatency: 1192.1624
+ QueryTotalOutgoingEventLatency: 46082.6336
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 191
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 737
+ OperatorTotalCpuUsage: 516
+ QueryTotalIncomingEventCount: 79
+ QueryTotalConsumedEventCount: 79
+ QueryTotalProducedEventCount: 175
+ QueryTotalOutgoingEventCount: 172
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.4769
+ QueryTotalProducedEventLatency: 1192.1624
+ QueryTotalOutgoingEventLatency: 46316.002
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1892
+ OperatorTotalScheduledCount: 746
+ OperatorTotalCpuUsage: 523
+ QueryTotalIncomingEventCount: 80
+ QueryTotalConsumedEventCount: 80
+ QueryTotalProducedEventCount: 176
+ QueryTotalOutgoingEventCount: 173
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:13 AM
+ QueryTotalConsumedEventLatency: 39.5186
+ QueryTotalProducedEventLatency: 1200.0712
+ QueryTotalOutgoingEventLatency: 46592.4933
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:13 AM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 688
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 797
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 86
+ QueryTotalConsumedEventCount: 86
+ QueryTotalProducedEventCount: 191
+ QueryTotalOutgoingEventCount: 182
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.7831
+ QueryTotalProducedEventLatency: 1210.6888
+ QueryTotalOutgoingEventLatency: 47180.092
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 797
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 86
+ QueryTotalConsumedEventCount: 86
+ QueryTotalProducedEventCount: 191
+ QueryTotalOutgoingEventCount: 183
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.7831
+ QueryTotalProducedEventLatency: 1210.6888
+ QueryTotalOutgoingEventLatency: 47210.3053
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 797
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 86
+ QueryTotalConsumedEventCount: 86
+ QueryTotalProducedEventCount: 191
+ QueryTotalOutgoingEventCount: 184
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.7831
+ QueryTotalProducedEventLatency: 1210.6888
+ QueryTotalOutgoingEventLatency: 47276.5761
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 507
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 805
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 87
+ QueryTotalConsumedEventCount: 87
+ QueryTotalProducedEventCount: 192
+ QueryTotalOutgoingEventCount: 185
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.8269
+ QueryTotalProducedEventLatency: 1213.0332
+ QueryTotalOutgoingEventLatency: 47375.1881
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 428
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 805
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 87
+ QueryTotalConsumedEventCount: 87
+ QueryTotalProducedEventCount: 192
+ QueryTotalOutgoingEventCount: 186
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.8269
+ QueryTotalProducedEventLatency: 1213.0332
+ QueryTotalOutgoingEventLatency: 47516.7013
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 805
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 87
+ QueryTotalConsumedEventCount: 87
+ QueryTotalProducedEventCount: 192
+ QueryTotalOutgoingEventCount: 187
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.8269
+ QueryTotalProducedEventLatency: 1213.0332
+ QueryTotalOutgoingEventLatency: 47684.0093
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1804
+ OperatorTotalScheduledCount: 805
+ OperatorTotalCpuUsage: 524
+ QueryTotalIncomingEventCount: 87
+ QueryTotalConsumedEventCount: 87
+ QueryTotalProducedEventCount: 192
+ QueryTotalOutgoingEventCount: 188
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.8269
+ QueryTotalProducedEventLatency: 1213.0332
+ QueryTotalOutgoingEventLatency: 47877.2766
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 247
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 815
+ OperatorTotalCpuUsage: 526
+ QueryTotalIncomingEventCount: 88
+ QueryTotalConsumedEventCount: 88
+ QueryTotalProducedEventCount: 193
+ QueryTotalOutgoingEventCount: 189
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.8754
+ QueryTotalProducedEventLatency: 1214.6345
+ QueryTotalOutgoingEventLatency: 48096.1868
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1848
+ OperatorTotalScheduledCount: 815
+ OperatorTotalCpuUsage: 526
+ QueryTotalIncomingEventCount: 88
+ QueryTotalConsumedEventCount: 88
+ QueryTotalProducedEventCount: 193
+ QueryTotalOutgoingEventCount: 190
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:14 AM
+ QueryTotalConsumedEventLatency: 39.8754
+ QueryTotalProducedEventLatency: 1214.6345
+ QueryTotalOutgoingEventLatency: 48352.5074
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:14 AM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 609
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 865
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 93
+ QueryTotalConsumedEventCount: 93
+ QueryTotalProducedEventCount: 206
+ QueryTotalOutgoingEventCount: 198
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.3882
+ QueryTotalProducedEventLatency: 1224.8244
+ QueryTotalOutgoingEventLatency: 48906.665
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 530
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 865
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 93
+ QueryTotalConsumedEventCount: 93
+ QueryTotalProducedEventCount: 206
+ QueryTotalOutgoingEventCount: 199
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.3882
+ QueryTotalProducedEventLatency: 1224.8244
+ QueryTotalOutgoingEventLatency: 48940.6015
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 451
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 865
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 93
+ QueryTotalConsumedEventCount: 93
+ QueryTotalProducedEventCount: 206
+ QueryTotalOutgoingEventCount: 200
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.3882
+ QueryTotalProducedEventLatency: 1224.8244
+ QueryTotalOutgoingEventLatency: 49000.36
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 372
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1672
+ OperatorTotalScheduledCount: 865
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 93
+ QueryTotalConsumedEventCount: 93
+ QueryTotalProducedEventCount: 206
+ QueryTotalOutgoingEventCount: 201
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.3882
+ QueryTotalProducedEventLatency: 1224.8244
+ QueryTotalOutgoingEventLatency: 49089.458
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 349
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 873
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 94
+ QueryTotalConsumedEventCount: 94
+ QueryTotalProducedEventCount: 207
+ QueryTotalOutgoingEventCount: 202
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.4238
+ QueryTotalProducedEventLatency: 1225.0027
+ QueryTotalOutgoingEventLatency: 49203.1648
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 270
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 873
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 94
+ QueryTotalConsumedEventCount: 94
+ QueryTotalProducedEventCount: 207
+ QueryTotalOutgoingEventCount: 203
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.4238
+ QueryTotalProducedEventLatency: 1225.0027
+ QueryTotalOutgoingEventLatency: 49352.6407
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 191
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1716
+ OperatorTotalScheduledCount: 873
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 94
+ QueryTotalConsumedEventCount: 94
+ QueryTotalProducedEventCount: 207
+ QueryTotalOutgoingEventCount: 204
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.4238
+ QueryTotalProducedEventLatency: 1225.0027
+ QueryTotalOutgoingEventLatency: 49532.7494
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 168
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 1760
+ OperatorTotalScheduledCount: 882
+ OperatorTotalCpuUsage: 530
+ QueryTotalIncomingEventCount: 95
+ QueryTotalConsumedEventCount: 95
+ QueryTotalProducedEventCount: 208
+ QueryTotalOutgoingEventCount: 205
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.4651
+ QueryTotalProducedEventLatency: 1229.7523
+ QueryTotalOutgoingEventLatency: 49749.8384
+ QueryLastProducedCtiTimestamp: 16-Jun-18 8:07:15 AM
+--------------------------------------------
+ AllEventsCount: 35
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 35
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 35
+ StreamMemoryIncludingEvents: 2711
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 215
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50187.8352
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 34
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 34
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 34
+ StreamMemoryIncludingEvents: 2632
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 216
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50216.7849
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 33
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 33
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 33
+ StreamMemoryIncludingEvents: 2553
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 217
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50273.0969
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 32
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 32
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 32
+ StreamMemoryIncludingEvents: 2474
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 218
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50365.8018
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 31
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 31
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 31
+ StreamMemoryIncludingEvents: 2395
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 219
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50489.8004
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 30
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 30
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 30
+ StreamMemoryIncludingEvents: 2316
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 220
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50648.8327
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 29
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 29
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 29
+ StreamMemoryIncludingEvents: 2237
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 221
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 50841.6847
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 28
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 28
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 28
+ StreamMemoryIncludingEvents: 2158
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 222
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 51069.0386
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 27
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 27
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 27
+ StreamMemoryIncludingEvents: 2079
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 223
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 51328.7525
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 26
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 26
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 26
+ StreamMemoryIncludingEvents: 2000
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 224
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 51622.5454
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 25
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 25
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 25
+ StreamMemoryIncludingEvents: 1921
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 225
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 51957.8485
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 24
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 24
+ StreamMemoryIncludingEvents: 1842
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 226
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 52325.8216
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 23
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 23
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 23
+ StreamMemoryIncludingEvents: 1763
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 227
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 52725.7642
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 22
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 22
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 22
+ StreamMemoryIncludingEvents: 1684
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 228
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 53151.6925
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 21
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 21
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 21
+ StreamMemoryIncludingEvents: 1605
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 229
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 53605.346
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 20
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 20
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 20
+ StreamMemoryIncludingEvents: 1526
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 230
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 54086.3526
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 19
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 19
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 19
+ StreamMemoryIncludingEvents: 1447
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 231
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 54597.8566
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 18
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 18
+ StreamMemoryIncludingEvents: 1368
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 232
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 55138.1224
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 17
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 17
+ StreamMemoryIncludingEvents: 1289
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 233
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 55707.4431
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 16
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 16
+ StreamMemoryIncludingEvents: 1210
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 234
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 56303.6396
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 15
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 15
+ StreamMemoryIncludingEvents: 1131
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 235
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 56925.3148
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 14
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 14
+ StreamMemoryIncludingEvents: 1052
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 236
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 57573.7716
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 13
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 13
+ StreamMemoryIncludingEvents: 973
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 237
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 58248.9054
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 12
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 12
+ StreamMemoryIncludingEvents: 894
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 238
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 58956.8547
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 11
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 11
+ StreamMemoryIncludingEvents: 815
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 239
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 59696.4137
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 10
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 10
+ StreamMemoryIncludingEvents: 736
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 240
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 60465.9225
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 9
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 9
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 9
+ StreamMemoryIncludingEvents: 657
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 241
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 61259.8033
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 8
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 8
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 8
+ StreamMemoryIncludingEvents: 578
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 242
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 62079.9142
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 7
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 7
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 7
+ StreamMemoryIncludingEvents: 499
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 243
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 62925.5976
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 6
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 6
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 6
+ StreamMemoryIncludingEvents: 420
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 244
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 63798.751
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 5
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 5
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 5
+ StreamMemoryIncludingEvents: 341
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 245
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 64697.3966
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 4
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 4
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 4
+ StreamMemoryIncludingEvents: 262
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 246
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 65628.4668
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 3
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 3
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 3
+ StreamMemoryIncludingEvents: 183
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 247
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 66586.6031
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------
+ AllEventsCount: 2
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ AllEventsCount: 2
+ AllEventsMemory: 573440
+--------------------------------------------
+ AllQueriesCount: 1
+ AllQueriesStreamCount: 7
+ AllQueriesOperatorCount: 8
+--------------------------------------------
+ StreamEventCount: 2
+ StreamMemoryIncludingEvents: 104
+ OperatorIndexEventCount: 0
+ OperatorEventMemory: 0
+ OperatorIndexMemory: 0
+ OperatorTotalScheduledCount: 938
+ OperatorTotalCpuUsage: 534
+ QueryTotalIncomingEventCount: 102
+ QueryTotalConsumedEventCount: 102
+ QueryTotalProducedEventCount: 250
+ QueryTotalOutgoingEventCount: 248
+ QueryLastIncomingEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastConsumedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastProducedEventTimestamp: 16-Jun-18 8:07:15 AM
+ QueryLastOutgoingEventTimestamp: 16-Jun-18 8:07:16 AM
+ QueryTotalConsumedEventLatency: 40.805
+ QueryTotalProducedEventLatency: 1282.4037
+ QueryTotalOutgoingEventLatency: 67573.1283
+ QueryLastProducedCtiTimestamp: 31-Dec-99 11:59:59 PM
+--------------------------------------------

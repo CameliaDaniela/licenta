@@ -54,7 +54,7 @@ namespace Exxx
                 Console.WriteLine("Started observable source.");
                 using (var server = Server.Create("Default"))
                 {
-                    // Create a local end point for the server embedded in this program  
+                    
                     var host = new ServiceHost(server.CreateManagementService());
                     host.AddServiceEndpoint(typeof(IManagementService), new WSHttpBinding(SecurityMode.Message), "http://8080/MyStreamInsightApp");
                     host.Open();
@@ -81,7 +81,7 @@ namespace Exxx
                                          };
                     var query = from rs in stream
                                 group rs by rs.Value.RoadSegment into roadSeg
-                                from ob in roadSeg.HoppingWindow(TimeSpan.FromSeconds(5), TimeSpan.FromSeconds(2))
+                                from ob in roadSeg.HoppingWindow(TimeSpan.FromSeconds(5), TimeSpan.FromSeconds(1))
                                 select new
                                 {
                                     avreage = ob.Avg(e => e.Value.Speed),
