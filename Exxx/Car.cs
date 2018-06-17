@@ -14,10 +14,9 @@ namespace Exxx
         public void CreateRandomCar(int noSegments)
         {
             Random random = new Random();
-            int rs = random.Next(1, noSegments);
-           
-            RoadSegment = rs.ToString();
-            var speed = random.Next(10, 120);
+            int RandomSegment = random.Next(1, noSegments); 
+            RoadSegment = RandomSegment.ToString();
+            var speed = random.Next(0, 120);
             Speed = speed;
         }
         public override string ToString()

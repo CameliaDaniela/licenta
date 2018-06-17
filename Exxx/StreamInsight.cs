@@ -68,12 +68,12 @@ namespace Exxx
 
 
                     //query that sums of events within 2 second tumbling windows
-                    //var query1 = from ob in stream.TumblingWindow(TimeSpan.FromSeconds(2), HoppingWindowOutputPolicy.ClipToWindowEnd)
-                    //            select new
-                    //            {
-                    //                sum = ob.Sum(e => e.Value.Speed),
+                    var thumblingResult = from ob in stream.TumblingWindow(TimeSpan.FromSeconds(2), HoppingWindowOutputPolicy.ClipToWindowEnd)
+                                 select new
+                                 {
+                                     avreageT= ob.Avg(e => e.Value.Speed),
 
-                    //            };
+                                 };
                     //List<double> list;
                     var snapshotResult = from cars in stream.SnapshotWindow()
                                          select new {
