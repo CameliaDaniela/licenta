@@ -86,8 +86,6 @@ namespace Exxx
                                 {
                                     avreage = ob.Avg(e => e.Value.Speed),
                                     groupId = roadSeg.Key
-                                    // max = ob.Max(e => e.Value.StartTime)
-
                                 };
 
 

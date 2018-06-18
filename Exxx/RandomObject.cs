@@ -7,7 +7,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-
 namespace Exxx
 {
 
@@ -26,6 +25,7 @@ namespace Exxx
         private int CountMax;
         private int TimeStmp;
         private int cntTS;
+
 
         /// <summary>
         /// Random observable subject. It produces an integer in regular time periods.
@@ -47,6 +47,7 @@ namespace Exxx
             TimeStmp = 1;
             cntTS =0;
             Schedule(); //call function that resets timer
+
         }
 
         //called to register an observer with the observable
@@ -91,6 +92,7 @@ namespace Exxx
                         Console.WriteLine(value);
                         DateTime now = DateTime.UtcNow;
                         Console.WriteLine(now);
+                      
                         count++;
                         cntTS++;
                         //Console.WriteLine(count);
@@ -145,7 +147,10 @@ namespace Exxx
                 foreach (var observer in _observers)
                 {
                     observer.OnCompleted();
+                    
                 }
+                DateTime now = DateTime.UtcNow;
+                Console.WriteLine(now + "on completed");
                 _done = true;
             }
         }

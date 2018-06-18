@@ -1,8 +1,8 @@
 use [Licenta]
 go
 
-IF OBJECT_ID('dbo.Car') IS NOT NULL
-    DROP TABLE dbo.Car;
+IF OBJECT_ID('dbo.ResultsQuery') IS NOT NULL
+    DROP TABLE dbo.ResultsQuery;
 go
 IF OBJECT_ID('dbo.Car') IS NOT NULL
     DROP TABLE dbo.Car;
@@ -16,6 +16,12 @@ go
 IF OBJECT_ID('dbo.DataEvent') IS NOT NULL
     DROP TABLE dbo.DataEvent;
 go
+create table ResultsQuery(
+idResult int primary key identity(1,1),
+windowSize int,
+roadSegment int,
+differenceResult int
+)
 create table Car(
  IdCar int primary key identity(1,1),
  TimeStmp int,
@@ -75,6 +81,7 @@ drop proc insertEventData
 go
 select top 1 * from DataEvent
 select * from Car
+where TimeStmp=1
 select * from Query
 select * from QueryLatency
 insert into DataEvent values(22,'1999-10-23 12:45:37' ,'Pending ')
