@@ -57,7 +57,7 @@ namespace Exxx
             using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
             {
                 DataAdapter.InsertCommand.Parameters.Add("@tsmp", SqlDbType.Int).Value = ts;
-                DataAdapter.InsertCommand.Parameters.Add("@speed", SqlDbType.Int).Value = param1;
+                DataAdapter.InsertCommand.Parameters.Add("@speed", SqlDbType.Float).Value = (float)param1;
                 DataAdapter.InsertCommand.Parameters.Add("@nameC", SqlDbType.VarChar,50).Value = param2;
                 Connection.Open();
                 DataAdapter.InsertCommand.ExecuteNonQuery();

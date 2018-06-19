@@ -147,10 +147,7 @@ namespace Exxx
                 foreach (var observer in _observers)
                 {
                     observer.OnCompleted();
-                    
                 }
-                DateTime now = DateTime.UtcNow;
-                Console.WriteLine(now + "on completed");
                 _done = true;
             }
         }

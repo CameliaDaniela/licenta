@@ -15,7 +15,7 @@ namespace Exxx
         {
             
             //StreamInsight streamInsight = new StreamInsight(4,10);
-             StreamInsight streamInsight = new StreamInsight(10,100,10);
+             StreamInsight streamInsight = new StreamInsight(1,10,10);
             //no values/ minute, no events in the flow, no road segments
             streamInsight.App();
             

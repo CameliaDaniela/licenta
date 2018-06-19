@@ -26,7 +26,7 @@ create table Car(
  IdCar int primary key identity(1,1),
  TimeStmp int,
  RoadSegment varchar(50) not null,
- Speed int
+ Speed float
 )
 go
 create table DataEvent(
