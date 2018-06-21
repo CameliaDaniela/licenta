@@ -25,13 +25,13 @@ namespace Exxx
         private int CountMax;
         private int TimeStmp;
         private int cntTS;
-
+       
 
         /// <summary>
         /// Random observable subject. It produces an integer in regular time periods.
         /// </summary>
         /// <param name="timerPeriod">Timer period (in milliseconds)</param>
-        public RandomObject(int timerPeriod,int noValues, int countMax, int noSegments)
+        public RandomObject(int timerPeriod,int noValues, int countMax, int noSegments,int TS)
         {
             deList = Citire();
             _done = false;
@@ -44,8 +44,8 @@ namespace Exxx
             CountMax = countMax;//number maxim of events in flow
             NoSegments = noSegments;//number of road segments
             NoValues = noValues;//number of values/second
-            TimeStmp = 1;
-            cntTS =0;
+            TimeStmp = TS;
+     
             Schedule(); //call function that resets timer
 
         }
@@ -75,11 +75,11 @@ namespace Exxx
                         observer.OnNext(value);
 
                        
-                        if (cntTS == NoValues)
-                        {
-                            TimeStmp++;
-                            cntTS = 0;
-                        }
+                        //if (cntTS == NoValues)
+                        //{
+                        //    TimeStmp++;
+                        //    cntTS = 0;
+                        //}
                         if (count == CountMax)
                         {
                             _done = true;

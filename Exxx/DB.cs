@@ -65,12 +65,13 @@ namespace Exxx
             }
             Connection.Close();
         }
-        public void WriteToDB(string param1, string param2)
+        public void WriteToDB(int df,string param1, string param2)
         {
-            string saveDataEv = "INSERT into QueryLatency (KeyQL,ValueQL) VALUES (@key,@value)";
+            string saveDataEv = "INSERT into QueryLatency (dimSize,KeyQL,ValueQL) VALUES (@dimF,@key,@value)";
 
             using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
             {
+                DataAdapter.InsertCommand.Parameters.Add("@dimF", SqlDbType.Int).Value = df;
                 DataAdapter.InsertCommand.Parameters.Add("@key", SqlDbType.VarChar,100).Value = param1;
                 DataAdapter.InsertCommand.Parameters.Add("@value", SqlDbType.VarChar, 100).Value = param2;
                 Connection.Open();
@@ -79,10 +80,16 @@ namespace Exxx
             }
             Connection.Close();
         }
-        public void Write(String s)
+        public void Write(int ts,String s)
         {
             string[] split =s.Split(new[] { ',', ' ','{','}','='}, StringSplitOptions.RemoveEmptyEntries);
-            WriteToDB(float.Parse(split[1]) ,int.Parse(split[3]));
+            WriteToDB(ts,float.Parse(split[1]) ,int.Parse(split[3]));
+
+        }
+        public void Write(String s)
+        {
+            string[] split = s.Split(new[] { ',', ' ', '{', '}', '=' }, StringSplitOptions.RemoveEmptyEntries);
+            WriteToDB(1, float.Parse(split[1]), int.Parse(split[3]));
 
         }
         /// <summary>
@@ -90,13 +97,13 @@ namespace Exxx
         /// </summary>
         /// <param name="param1">avreage</param>
         /// <param name="param2">groupId(RoadSegment)</param>
-        public void WriteToDB(float param1, int param2)
+        public void WriteToDB(int ts,float param1, int param2)
         {
-            string saveDataEv = "INSERT into Query (Avreage,GroupId) VALUES (@avg,@gId)";
+            string saveDataEv = "INSERT into Query (TimeStQ,Avreage,GroupId) VALUES (@tsq,@avg,@gId)";
 
             using (DataAdapter.InsertCommand = new SqlCommand(saveDataEv, Connection))
             {
-
+                DataAdapter.InsertCommand.Parameters.Add("@tsq", SqlDbType.Int).Value = ts;
                 DataAdapter.InsertCommand.Parameters.Add("@avg", SqlDbType.Float).Value = param1;
                 DataAdapter.InsertCommand.Parameters.Add("@gId", SqlDbType.Int).Value = param2;
                 Connection.Open();
